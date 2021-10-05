@@ -18,16 +18,34 @@ public class interactividad : MonoBehaviour
     void Update()
     {
         //limite de movimiento en y
-        if (transform.position.y < -13)
-        {
-            transform.position = new Vector3(transform.position.x, -13, transform.position.z);
-        }
-        if (transform.position.y > 60)
-        {
-            transform.position = new Vector3(transform.position.x, 60, transform.position.z);
-        }
+        limiteY();
 
         //limite de movimiento en x
+        limiteX();
+
+
+
+        transform.Translate(Vector3.right * Time.deltaTime * Input.GetAxis("Horizontal") * speed);
+        transform.Translate(Vector3.up * Time.deltaTime * Input.GetAxis("Vertical") * speed);
+
+
+        //rotacion
+        rotation();
+   
+      
+
+
+
+
+    }
+    void rotation()
+    {
+        float rot = Input.GetAxis("rotacion") * 2f;
+
+        transform.Rotate(Vector3.back * Time.deltaTime * rot * speed);
+    }
+    void limiteX()
+    {
         if (transform.position.x < -99)
         {
             transform.position = new Vector3(-99, transform.position.y, transform.position.z);
@@ -36,28 +54,16 @@ public class interactividad : MonoBehaviour
         {
             transform.position = new Vector3(99, transform.position.y, transform.position.z);
         }
-
-
-
-        transform.Translate(Vector3.right * Time.deltaTime * Input.GetAxis("Horizontal") * speed);
-        transform.Translate(Vector3.up * Time.deltaTime * Input.GetAxis("Vertical") * speed);
-
-
-
-
-       float rot = Input.GetAxis("rotacion") * 1.5f;
-       
-        transform.Rotate(Vector3.back * Time.deltaTime * rot * speed);
-
-       /* if(transform.rotation.z < -20)
+    }
+    void limiteY()
+    {
+        if (transform.position.y < -13)
         {
-            transform.rotation = Quaternion.Euler(transform.rotation.x, transform.rotation.y, -20);
+            transform.position = new Vector3(transform.position.x, -13, transform.position.z);
         }
-        if (transform.rotation.z < 20)
+        if (transform.position.y > 100)
         {
-            transform.rotation = Quaternion.Euler(transform.rotation.x, transform.rotation.y, 20);
+            transform.position = new Vector3(transform.position.x,100, transform.position.z);
         }
-       */
-      
     }
 }
