@@ -560,7 +560,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9df5e61e0e169ef478d858c44737e78c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spaceship: 0
+  spaceship: 300
 --- !u!4 &1688070097
 Transform:
   m_ObjectHideFlags: 0
@@ -606,6 +606,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   posInst: {fileID: 1971215768}
   MyPrefab: {fileID: 5379687387056114358, guid: c7857eefc19648540ab61e1dc9b74e84, type: 3}
+  posicion: {x: 0, y: 0, z: 0}
 --- !u!4 &1971215768
 Transform:
   m_ObjectHideFlags: 0

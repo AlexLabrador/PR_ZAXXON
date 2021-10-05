@@ -40,11 +40,13 @@ public class interactividad : MonoBehaviour
     }
     void rotation()
     {
+        
+
         float rot = Input.GetAxis("rotacion") * 2f;
 
         transform.Rotate(Vector3.back * Time.deltaTime * rot * speed);
     }
-    void limiteX()
+   void limiteX()
     {
         if (transform.position.x < -99)
         {
