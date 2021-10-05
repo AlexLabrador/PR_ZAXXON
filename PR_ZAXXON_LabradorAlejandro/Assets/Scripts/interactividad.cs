@@ -57,9 +57,9 @@ public class interactividad : MonoBehaviour
     }
     void limiteY()
     {
-        if (transform.position.y < -13)
+        if (transform.position.y < 2)
         {
-            transform.position = new Vector3(transform.position.x, -13, transform.position.z);
+            transform.position = new Vector3(transform.position.x, 2, transform.position.z);
         }
         if (transform.position.y > 100)
         {

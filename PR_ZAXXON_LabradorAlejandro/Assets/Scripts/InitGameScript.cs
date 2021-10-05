@@ -2,14 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class prefabGenerator : MonoBehaviour
+public class InitGameScript : MonoBehaviour
 {
-    [SerializeField] Transform posInst;
-    [SerializeField] GameObject MyPrefab;
+    public float spaceship;
     // Start is called before the first frame update
     void Start()
     {
-        Instantiate(MyPrefab, posInst);
+        
     }
 
     // Update is called once per frame
