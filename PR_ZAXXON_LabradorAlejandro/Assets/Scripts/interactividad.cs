@@ -22,19 +22,19 @@ public class interactividad : MonoBehaviour
         {
             transform.position = new Vector3(transform.position.x, -13, transform.position.z);
         }
-        if (transform.position.y > 30)
+        if (transform.position.y > 60)
         {
-            transform.position = new Vector3(transform.position.x, 30, transform.position.z);
+            transform.position = new Vector3(transform.position.x, 60, transform.position.z);
         }
 
         //limite de movimiento en x
-        if (transform.position.x < -53)
+        if (transform.position.x < -99)
         {
-            transform.position = new Vector3(-53, transform.position.y, transform.position.z);
+            transform.position = new Vector3(-99, transform.position.y, transform.position.z);
         }
-        if(transform.position.x > 53)
+        if(transform.position.x > 99)
         {
-            transform.position = new Vector3(53, transform.position.y, transform.position.z);
+            transform.position = new Vector3(99, transform.position.y, transform.position.z);
         }
 
 
