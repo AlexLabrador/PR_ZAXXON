@@ -6,18 +6,18 @@ public class interactividad : MonoBehaviour
 {
     [SerializeField] Vector3 PlayerPosition = new Vector3(0f, 0f, 0f);
     public float speed;
-
+  
 
     //variables
     //movimienti
-    
+
 
 
 
     //limites
-    float limitR = 400f;
-    float limitL = -400f;
-    float limitUp = 500f;
+    float limitR = 300f;
+    float limitL = -300f;
+    float limitUp = 200f;
     float limitDown = 20f;
 
     //variable bool limite
@@ -29,12 +29,13 @@ public class interactividad : MonoBehaviour
     void Start()
     {
         transform.position = PlayerPosition;
-
+       
     }
 
     // Update is called once per frame
     void Update()
-    {
+    {   
+        
         PlayerMovement();
         rotation();
         //limite de movimiento en y
@@ -63,7 +64,7 @@ public class interactividad : MonoBehaviour
     {
         
 
-        float rot = Input.GetAxis("rotacion") * 2f;
+        float rot = Input.GetAxis("rotacion") * 3f;
 
         transform.Rotate(Vector3.back * Time.deltaTime * rot * speed);
     }
