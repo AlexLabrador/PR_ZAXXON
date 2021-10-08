@@ -5,6 +5,7 @@ using UnityEngine;
 public class InitGameScript : MonoBehaviour
 {
     public float spaceship;
+    public float NaveVelocidad;
     // Start is called before the first frame update
     void Start()
     {

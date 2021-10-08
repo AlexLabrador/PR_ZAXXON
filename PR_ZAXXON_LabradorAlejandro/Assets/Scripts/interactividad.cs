@@ -15,9 +15,9 @@ public class interactividad : MonoBehaviour
 
 
     //limites
-    float limitR = 95f;
-    float limitL = -95f;
-    float limitUp = 170f;
+    float limitR = 400f;
+    float limitL = -400f;
+    float limitUp = 500f;
     float limitDown = 20f;
 
     //variable bool limite
