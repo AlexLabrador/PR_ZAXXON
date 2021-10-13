@@ -31,8 +31,9 @@ public class prefabGenerator : MonoBehaviour
     {
         while (true)
         {
-            posicion = new Vector3(Random.Range(-300f, 300f),Random.Range(0f,60f), Random.Range(500f, 1000f));
-           intervalo = Random.Range(0.5f, 1f);
+            posicion = new Vector3(Random.Range(-130f,130f),Random.Range(60f,100f), Random.Range(1500,1500f));
+           //intervalo = Random.Range(0.5f, 1f);
+            intervalo =0.35f;
             Instantiate(MyPrefab, posicion, Quaternion.identity);
             yield return new WaitForSeconds(intervalo);
         }

@@ -15,10 +15,10 @@ public class interactividad : MonoBehaviour
 
 
     //limites
-    float limitR = 300f;
-    float limitL = -300f;
-    float limitUp = 200f;
-    float limitDown = 20f;
+    float limitR = 140f;
+    float limitL = -140f;
+    float limitUp = 100f;
+    float limitDown = 10f;
 
     //variable bool limite
     bool inLimitY = false;
@@ -64,7 +64,7 @@ public class interactividad : MonoBehaviour
     {
         
 
-        float rot = Input.GetAxis("rotacion") * 3f;
+        float rot = Input.GetAxis("rotacion") * 2f;
 
         transform.Rotate(Vector3.back * Time.deltaTime * rot * speed);
     }
