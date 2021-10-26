@@ -15,10 +15,10 @@ public class interactividad : MonoBehaviour
 
 
     //limites
-    float limitR = 140f;
-    float limitL = -140f;
-    float limitUp = 100f;
-    float limitDown = 10f;
+    float limitR = 40f;
+    float limitL = -40f;
+    float limitUp = 50f;
+    float limitDown = 0f;
 
     //variable bool limite
     bool inLimitY = false;
@@ -116,6 +116,7 @@ public class interactividad : MonoBehaviour
         {
             inLimitY = true;
         }
+       
 
     }
   /* void limiteX()
