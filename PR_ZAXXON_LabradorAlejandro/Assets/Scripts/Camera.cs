@@ -16,7 +16,7 @@ public class Camera : MonoBehaviour
         //Útil para juegos de plataformas
         transform.position = new Vector3(transform.position.x, playerPosition.position.y, transform.position.z);
         //Con este código, la cámara seguirá al jugador, pero alejado algo en el eje Z
-        transform.position = new Vector3(playerPosition.position.x, playerPosition.position.y+5, playerPosition.position.z - 20);
+        transform.position = new Vector3(playerPosition.position.x, playerPosition.position.y, playerPosition.position.z);
         //Con este código, conseguimos que siga al objeto pero con suavidad
         //La velocidad de suavizado, cuanto menor sea más brusco será el movimiento
         Vector3 targetPosition = new Vector3(playerPosition.position.x, playerPosition.position.y, transform.position.z);

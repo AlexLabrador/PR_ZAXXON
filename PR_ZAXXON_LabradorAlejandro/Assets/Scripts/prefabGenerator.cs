@@ -7,14 +7,17 @@ public class prefabGenerator : MonoBehaviour
     float intervalo;
     [SerializeField] Transform posInst;
     [SerializeField] GameObject[] MyPrefab;
-    
+    [SerializeField] GameObject initObject;
+    InitGameScript initGameScript;
+
     public Vector3 posicion;
     
 
     // Start is called before the first frame update
     void Start()
     {
-
+        initObject = GameObject.Find("initGameScripts");
+        initGameScript = initObject.GetComponent<InitGameScript>();
         StartCoroutine("CrearObstaculos");
         
 
@@ -34,7 +37,7 @@ public class prefabGenerator : MonoBehaviour
             int randomNum = Random.Range(0, MyPrefab.Length);
 ;            posicion = new Vector3(Random.Range(-40f,40f),0f, transform.position.z + 400f);
            //intervalo = Random.Range(0.5f, 1f);
-            intervalo =0.50f;
+            intervalo = initGameScript.aparicionObs;
             Instantiate(MyPrefab[randomNum], posicion, Quaternion.identity);
             yield return new WaitForSeconds(intervalo);
         }
