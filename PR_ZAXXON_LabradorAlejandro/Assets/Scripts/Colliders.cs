@@ -30,7 +30,7 @@ public class Colliders : MonoBehaviour
         if (other.gameObject.tag == "Nave")
         {
             print(other.gameObject.tag);
-            //Destroy(other.gameObject);
+            Destroy(other.gameObject);
         }
     }
 }

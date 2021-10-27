@@ -814,6 +814,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: x-wing
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fc6f2fbcb1dccdb47932843ed2ae93ed, type: 3}
+      propertyPath: m_TagString
+      value: Nave
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6f2fbcb1dccdb47932843ed2ae93ed, type: 3}
 --- !u!1 &1688070095
@@ -871,7 +875,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1971215768}
   - component: {fileID: 1971215767}
-  - component: {fileID: 1971215769}
   m_Layer: 0
   m_Name: PrefabGenerator
   m_TagString: Untagged
@@ -894,6 +897,7 @@ MonoBehaviour:
   posInst: {fileID: 1971215768}
   MyPrefab:
   - {fileID: 3551981614190303229, guid: b9058c64ce78d5d48ae1f9af254ecc34, type: 3}
+  - {fileID: 4173287987083354039, guid: e550eeddb41e6c04ab0b26dfda1fa40d, type: 3}
   posicion: {x: 0, y: 0, z: 0}
 --- !u!4 &1971215768
 Transform:
@@ -909,15 +913,3 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1971215769
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1971215766}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83af233dd654e904ea666db58aa3e196, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
