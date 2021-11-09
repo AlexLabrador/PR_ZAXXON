@@ -2,14 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
  using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 
 public class InitGameScript : MonoBehaviour
 {   //variables generales
     public float spaceship;
-    public float NaveVelocidad;
     public float aparicionObs;
     private float gameSec;
+    [SerializeField] Text velocidadEnPantalla;
 
 
 
@@ -37,6 +38,8 @@ public class InitGameScript : MonoBehaviour
         print(Time.time);
         velocidadAumenta();
         BackToTheFuture();
+        VelocidadEnPantalla();
+
 
     }
 
@@ -51,7 +54,7 @@ public class InitGameScript : MonoBehaviour
     }
     void velocidadAumenta()
     {
-        if (Time.time > 10)
+        if (Time.time > 0)
         {
             spaceship = spaceship +=0.05f;
         }
@@ -62,6 +65,10 @@ public class InitGameScript : MonoBehaviour
         {
             SceneManager.LoadScene("lv2");
         }
+    }
+    void VelocidadEnPantalla()
+    {
+        velocidadEnPantalla.text = spaceship + "";
     }
 
 }
