@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Colliders : MonoBehaviour
 {
+    [SerializeField] GameObject columnaObs;
     // Start is called before the first frame update
     void Start()
     {
@@ -32,5 +33,17 @@ public class Colliders : MonoBehaviour
             print(other.gameObject.tag);
             Destroy(other.gameObject);
         }
+    }
+
+    void DestruirObs()
+    {
+       
+        if (transform.position.z <= -10)
+        {
+            Destroy(columnaObs);
+             
+        }
+
+
     }
 }

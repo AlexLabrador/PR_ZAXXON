@@ -8,6 +8,7 @@ public class prefabGenerator : MonoBehaviour
     [SerializeField] Transform posInst;
     [SerializeField] GameObject[] MyPrefab;
     [SerializeField] GameObject initObject;
+   
     InitGameScript initGameScript;
 
     public Vector3 posicion;
@@ -35,12 +36,17 @@ public class prefabGenerator : MonoBehaviour
         while (true)
         {
             int randomNum = Random.Range(0, MyPrefab.Length);
-;            posicion = new Vector3(Random.Range(-40f,40f),0f, transform.position.z + 400f);
+;            posicion = new Vector3(Random.Range(-9f,9f),0f, transform.position.z + 100f);
            //intervalo = Random.Range(0.5f, 1f);
             intervalo = initGameScript.aparicionObs;
             Instantiate(MyPrefab[randomNum], posicion, Quaternion.identity);
+           
             yield return new WaitForSeconds(intervalo);
         }
         
     }
+    
+
+    
+   
 }

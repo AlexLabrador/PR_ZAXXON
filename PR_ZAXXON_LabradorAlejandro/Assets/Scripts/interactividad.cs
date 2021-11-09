@@ -6,7 +6,10 @@ public class interactividad : MonoBehaviour
 {
     [SerializeField] Vector3 PlayerPosition = new Vector3(0f, 0f, 0f);
     public float speed;
-  
+    [SerializeField] Rigidbody rb;
+    private float rotateY;
+    [SerializeField] float fuerza;
+
 
     //variables
     //movimienti
@@ -15,10 +18,10 @@ public class interactividad : MonoBehaviour
 
 
     //limites
-    float limitR = 40f;
-    float limitL = -40f;
-    float limitUp = 50f;
-    float limitDown = 0f;
+    float limitR = 9f;
+    float limitL = -9f;
+    float limitUp = 30f;
+    float limitDown = 0.5f;
 
     //variable bool limite
     bool inLimitY = false;
@@ -30,6 +33,10 @@ public class interactividad : MonoBehaviour
     {
         transform.position = PlayerPosition;
        
+    }
+    private void FixedUpdate()
+    {
+       // RotarFuerzas();
     }
 
     // Update is called once per frame
@@ -67,6 +74,12 @@ public class interactividad : MonoBehaviour
         float rot = Input.GetAxis("rotacion") * 2f;
 
         transform.Rotate(Vector3.back * Time.deltaTime * rot * speed);
+    }
+
+    void RotarFuerzas()
+    {
+        float rotateY = Input.GetAxis("Vertical");
+        rb.AddTorque(Vector3.back * fuerza * rotateY);
     }
 
 
