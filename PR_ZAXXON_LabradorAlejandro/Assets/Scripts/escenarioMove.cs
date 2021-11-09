@@ -8,7 +8,7 @@ public class escenarioMove : MonoBehaviour
     InitGameScript InitGameScript;
     [SerializeField] float speed;
     [SerializeField] GameObject terrenoPrefab;
-    Vector3 intpos = new Vector3(0, 0, 100);
+    Vector3 intpos = new Vector3(0, 0.1f, 100);
     // Start is called before the first frame update
     void Start()
     {
