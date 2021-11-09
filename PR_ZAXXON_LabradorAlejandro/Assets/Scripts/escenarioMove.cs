@@ -8,7 +8,7 @@ public class escenarioMove : MonoBehaviour
     InitGameScript InitGameScript;
     [SerializeField] float speed;
     [SerializeField] GameObject terrenoPrefab;
-    Vector3 intpos = new Vector3(0, 0, 150);
+    Vector3 intpos = new Vector3(0, 0, 100);
     // Start is called before the first frame update
     void Start()
     {
@@ -24,9 +24,10 @@ public class escenarioMove : MonoBehaviour
        if (transform.position.z <= -50)
         {
            // print("Hola");    
-            Instantiate(terrenoPrefab, intpos, Quaternion.identity);
+            
             if (transform.position.z <= -100)
             {
+                Instantiate(terrenoPrefab, intpos, Quaternion.identity);
                 Destroy(terrenoPrefab);
             }
         }
