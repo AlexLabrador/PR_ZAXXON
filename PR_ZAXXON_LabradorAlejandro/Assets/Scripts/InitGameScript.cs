@@ -64,7 +64,7 @@ public class InitGameScript : MonoBehaviour
     {
         if (spaceship > 140)
         {
-            SceneManager.LoadScene("lv2");
+            SceneManager.LoadScene("Nivel_2");
         }
     }
     void VelocidadEnPantalla()

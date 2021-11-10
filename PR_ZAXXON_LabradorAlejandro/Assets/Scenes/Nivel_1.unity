@@ -1165,7 +1165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9df5e61e0e169ef478d858c44737e78c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spaceship: 10
+  spaceship: 30
   aparicionObs: 0.6
   velocidadEnPantalla: {fileID: 963873507}
 --- !u!4 &1688070097
@@ -1302,6 +1302,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1971215768}
   - component: {fileID: 1971215767}
+  - component: {fileID: 1971215769}
   m_Layer: 0
   m_Name: PrefabGenerator
   m_TagString: Untagged
@@ -1341,3 +1342,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1971215769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1971215766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0e30f3e6a302e641b23b8e1a969d320, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  posInst: {fileID: 1971215768}
+  MyPrefab:
+  - {fileID: 6219696352586399407, guid: e241187c81b97684e99c04fb7aa8f88a, type: 3}
+  initObject: {fileID: 0}
+  posicion: {x: 0, y: 0, z: 0}
