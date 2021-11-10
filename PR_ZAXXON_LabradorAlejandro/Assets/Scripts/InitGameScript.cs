@@ -74,7 +74,7 @@ public class InitGameScript : MonoBehaviour
 
     void Acelerar()
     {
-        if (Input.GetKey("space"))
+        if (Input.GetButton("Dash"))
         {
             print(spaceship);
             spaceship = spaceship += 0.05f;
