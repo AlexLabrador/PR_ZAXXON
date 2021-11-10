@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class Colliders : MonoBehaviour
 {
     [SerializeField] GameObject columnaObs;
+    
     // Start is called before the first frame update
     void Start()
     {
