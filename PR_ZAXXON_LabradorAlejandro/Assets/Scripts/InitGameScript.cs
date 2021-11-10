@@ -36,7 +36,7 @@ public class InitGameScript : MonoBehaviour
     {
         reaparicionAumenta();
         print(Time.time);
-        //velocidadAumenta();
+        velocidadAumenta();
         BackToTheFuture();
         VelocidadEnPantalla();
         Acelerar();
@@ -46,7 +46,7 @@ public class InitGameScript : MonoBehaviour
 
     void reaparicionAumenta()
     {
-        if (Time.time > 15)
+        if (spaceship > 60)
         {
             aparicionObs = aparicionObs += -0.0001f;
         }
@@ -57,7 +57,7 @@ public class InitGameScript : MonoBehaviour
     {
         if (Time.time > 0)
         {
-            spaceship = spaceship +=0.05f;
+            spaceship = spaceship +=0.005f;
         }
     }
     void BackToTheFuture()
