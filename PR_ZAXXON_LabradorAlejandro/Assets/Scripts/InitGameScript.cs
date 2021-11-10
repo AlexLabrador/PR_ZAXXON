@@ -11,7 +11,7 @@ public class InitGameScript : MonoBehaviour
     public float aparicionObs;
     private float gameSec;
     [SerializeField] Text velocidadEnPantalla;
-
+    
 
 
 
@@ -80,6 +80,7 @@ public class InitGameScript : MonoBehaviour
             spaceship = spaceship += 0.05f;
         }
     }
+   
 
 }
 

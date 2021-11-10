@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class interactividad : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class interactividad : MonoBehaviour
     [SerializeField] Rigidbody rb;
     private float rotateY;
     [SerializeField] float fuerza;
+    [SerializeField] GameObject nave;
 
 
     //variables
@@ -45,27 +47,7 @@ public class interactividad : MonoBehaviour
         
         PlayerMovement();
         rotation();
-        //limite de movimiento en y
-        //limiteY();
-
-        //limite de movimiento en x
-        //limiteX();
-
-
-
-        /*transform.Translate(Vector3.right * Time.deltaTime * Input.GetAxis("Horizontal") * speed);
-        transform.Translate(Vector3.up * Time.deltaTime * Input.GetAxis("Vertical") * speed);
-        */
-
-
-        //rotacion
-
-
-
-
-
-
-
+        
     }
     void rotation()
     {
@@ -132,29 +114,18 @@ public class interactividad : MonoBehaviour
        
 
     }
-  /* void limiteX()
+    void OnTriggerEnter(Collider other)
     {
-        if (transform.position.x < -99)
+
+        if (other.gameObject.tag == "Enemy")
         {
-            transform.position = new Vector3(-99, transform.position.y, transform.position.z);
-        }
-        if (transform.position.x > 99)
-        {
-            transform.position = new Vector3(99, transform.position.y, transform.position.z);
+            //print(other.gameObject.tag);
+            Destroy(nave);
+            SceneManager.LoadScene("Game over");
         }
     }
-    void limiteY()
-    {
-        if (transform.position.y < 2)
-        {
-            transform.position = new Vector3(transform.position.x, 2, transform.position.z);
-        }
-        if (transform.position.y > 100)
-        {
-            transform.position = new Vector3(transform.position.x,100, transform.position.z);
-        }
-    }*/
-    
+
+
 
 
 

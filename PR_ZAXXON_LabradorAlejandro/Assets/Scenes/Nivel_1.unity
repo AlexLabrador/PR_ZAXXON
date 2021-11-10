@@ -281,6 +281,7 @@ MonoBehaviour:
   speed: 20
   rb: {fileID: 0}
   fuerza: 0
+  nave: {fileID: 98913164}
 --- !u!54 &98913167
 Rigidbody:
   m_ObjectHideFlags: 0

@@ -26,7 +26,7 @@ public class Colliders : MonoBehaviour
             Destroy(this.gameObject);
         }
     }*/
-    void OnTriggerEnter(Collider other)
+   /* void OnTriggerEnter(Collider other)
     {
         
         if (other.gameObject.tag == "Nave")
@@ -35,7 +35,7 @@ public class Colliders : MonoBehaviour
             Destroy(other.gameObject);
         }
     }
-
+   */
     void DestruirObs()
     {
        
