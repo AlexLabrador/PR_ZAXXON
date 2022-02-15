@@ -1565,7 +1565,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3924214743392670347}
   m_Layer: 0
-  m_Name: DeLorean BTF Sketchfabv4
+  m_Name: DeLorean_final
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1580,7 +1580,7 @@ Transform:
   m_GameObject: {fileID: 4413048419836561457}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.2854192, y: 0.18, z: 5.7467}
-  m_LocalScale: {x: 3.6833, y: 3.6833, z: 3.6833}
+  m_LocalScale: {x: 0.9525365, y: 0.9525365, z: 0.9525365}
   m_Children:
   - {fileID: 342015579156175794}
   - {fileID: 246115981968267687}
@@ -2410,7 +2410,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 8556262120643298411, guid: c41e7f550b311704db472af3b9ecc1c8, type: 3}
+  - {fileID: 2100000, guid: 1b3c67abcefb66042940dd15713ffb40, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

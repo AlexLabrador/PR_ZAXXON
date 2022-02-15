@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro Education; OS build 19042.1466; Version 2009; 64bit' Language: 'es' Physical Memory: 16296 MB
+OS: 'Windows 10 Pro; OS build 19041.1415; Version 2004; 64bit' Language: 'es' Physical Memory: 16315 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,524 +11,1083 @@ C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/2ºAnimación/RPMI/GitHub/Repositorios/PR_ZAXXON/PR_ZAXXON_LabradorAlejandro
+I:/2ºAnimación/RPMI/GitHub/Repositorios/PR_ZAXXON/PR_ZAXXON_LabradorAlejandro
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50716
-Successfully changed project path to: D:/2ºAnimación/RPMI/GitHub/Repositorios/PR_ZAXXON/PR_ZAXXON_LabradorAlejandro
-D:/2ºAnimación/RPMI/GitHub/Repositorios/PR_ZAXXON/PR_ZAXXON_LabradorAlejandro
+52527
+Successfully changed project path to: I:/2ºAnimación/RPMI/GitHub/Repositorios/PR_ZAXXON/PR_ZAXXON_LabradorAlejandro
+I:/2ºAnimación/RPMI/GitHub/Repositorios/PR_ZAXXON/PR_ZAXXON_LabradorAlejandro
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 43.83 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 66.42 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.1f1 (77a89f25062f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/2ºAnimación/RPMI/GitHub/Repositorios/PR_ZAXXON/PR_ZAXXON_LabradorAlejandro/Assets
+[Subsystems] Discovering subsystems at path I:/2ºAnimación/RPMI/GitHub/Repositorios/PR_ZAXXON/PR_ZAXXON_LabradorAlejandro/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Renderer: Radeon RX 570 Series (ID=0x67df)
     Vendor:   
-    VRAM:     5991 MB
-    Driver:   27.21.14.5730
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+    VRAM:     8171 MB
+    Driver:   27.20.14501.18003
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56356
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56260
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001548 seconds.
+Registered in 0.002504 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 44.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 84.84 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.856 seconds
+- Completed reload, in  1.279 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001098 seconds.
+Registered in 0.001661 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 45.74 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 61.91 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.189 seconds
+- Completed reload, in  1.390 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 151.6 MB.
-System memory in use after: 151.8 MB.
+Unloading 2769 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.5 MB.
+System memory in use after: 123.0 MB.
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3251.
-Total: 2.403200 ms (FindLiveObjects: 0.364400 ms CreateObjectMapping: 0.137400 ms MarkObjects: 1.762100 ms  DeleteObjects: 0.138300 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/CommonTextures/KB3D_NEC_AirCon_normal.png
-  artifactKey: Guid(ae91fcbce62e8924c9e14b6dc855e84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/CommonTextures/KB3D_NEC_AirCon_normal.png using Guid(ae91fcbce62e8924c9e14b6dc855e84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754aefec7f2ca345c00e2b3c305a783f') in 0.072864 seconds
-  Import took 0.076706 seconds .
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3144.
+Total: 4.522100 ms (FindLiveObjects: 0.351500 ms CreateObjectMapping: 0.072500 ms MarkObjects: 1.720700 ms  DeleteObjects: 2.376100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/CommonTextures/KB3D_NEC_AirCon_height.png
-  artifactKey: Guid(4c6d70ef530242b4d8336c04eff9a686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/CommonTextures/KB3D_NEC_AirCon_height.png using Guid(4c6d70ef530242b4d8336c04eff9a686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb91cd07133c586439b0068284b360f3') in 0.011698 seconds
-  Import took 0.015399 seconds .
+  path: Assets/cesped.terrainlayer
+  artifactKey: Guid(0116f28ea5f14e04388cfa0257460ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cesped.terrainlayer using Guid(0116f28ea5f14e04388cfa0257460ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e84cbb5936fef1625155a19380e81554') in 0.095738 seconds
+  Import took 0.099750 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000142 seconds.
-  path: Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/CommonTextures/KB3D_NEC_AirCon_basecolor.png
-  artifactKey: Guid(a78b62d5c70ab624da8f81f43c10db82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/CommonTextures/KB3D_NEC_AirCon_basecolor.png using Guid(a78b62d5c70ab624da8f81f43c10db82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98ac52e6e71cadcb1327bf01de92d35a') in 0.036755 seconds
-  Import took 0.040791 seconds .
+  Time since last request: 0.000203 seconds.
+  path: Assets/CyberpunkDeLorean.FBX
+  artifactKey: Guid(ab1e018339e9afd48b87437590e7fb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CyberpunkDeLorean.FBX using Guid(ab1e018339e9afd48b87437590e7fb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f58e098a645a1b75b899ce282dae5e0') in 0.048733 seconds
+  Import took 0.052322 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/CommonTextures/KB3D_NEC_AsphaltHexagonRoof_mads.png
-  artifactKey: Guid(308145b664f26d146878fa357b6f5ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/CommonTextures/KB3D_NEC_AsphaltHexagonRoof_mads.png using Guid(308145b664f26d146878fa357b6f5ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42cfaa6b34ddb3a4361422fa919fab30') in 0.013082 seconds
-  Import took 0.017434 seconds .
+  Time since last request: 0.000177 seconds.
+  path: Assets/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(f2e5fa1d03b648448ab29cf069cf7628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset.asset using Guid(f2e5fa1d03b648448ab29cf069cf7628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f7fea3e7b7ab86bb166b49264fae3cb') in 0.010474 seconds
+  Import took 0.013866 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.003661 seconds.
-  path: Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/CommonTextures/KB3D_NEC_AsphaltHexagonRoof_mads.png
-  artifactKey: Guid(308145b664f26d146878fa357b6f5ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/CommonTextures/KB3D_NEC_AsphaltHexagonRoof_mads.png using Guid(308145b664f26d146878fa357b6f5ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42cfaa6b34ddb3a4361422fa919fab30') in 0.014961 seconds
-  Import took 0.019498 seconds .
+  Time since last request: 0.000188 seconds.
+  path: Assets/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(752514e66ae588f4ea4626677067369c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset_Renderer.asset using Guid(752514e66ae588f4ea4626677067369c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be7de6c9df4de29da87580e00b28a54c') in 0.008860 seconds
+  Import took 0.012289 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 82 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.7 MB.
+System memory in use after: 70.3 MB.
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 3151.
+Total: 4.924800 ms (FindLiveObjects: 0.277200 ms CreateObjectMapping: 0.066200 ms MarkObjects: 2.234400 ms  DeleteObjects: 2.346000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.156297 seconds.
-  path: Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/NeoCities/KB3D_NEC_BldgLG_A.fbx
-  artifactKey: Guid(ec2849a75d44bb94c8c92fc8b813441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D/NeoCities/KB3D_NEC_BldgLG_A.fbx using Guid(ec2849a75d44bb94c8c92fc8b813441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e60d745140ee09e449f9c41e1f58ad2') in 0.286888 seconds
-  Import took 0.292792 seconds .
+  Time since last request: 1864.307706 seconds.
+  path: Assets/DeLorean
+  artifactKey: Guid(3b12efbaabc02ad41b397cc8445aaac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean using Guid(3b12efbaabc02ad41b397cc8445aaac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26a10b2ddd8d78592bcf9db10099e1b') in 0.007252 seconds
+  Import took 0.011712 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.311886 seconds.
-  path: Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D
-  artifactKey: Guid(f462b60d2ceb6c1478e783418c2cbf97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityHDRP/Assets/KB3D using Guid(f462b60d2ceb6c1478e783418c2cbf97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86b369107045f6a2ea3fb68ef3ba334') in 0.004845 seconds
-  Import took 0.008850 seconds .
+  Time since last request: 0.004245 seconds.
+  path: Assets/DeLorean
+  artifactKey: Guid(3b12efbaabc02ad41b397cc8445aaac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean using Guid(3b12efbaabc02ad41b397cc8445aaac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26a10b2ddd8d78592bcf9db10099e1b') in 0.002671 seconds
+  Import took 0.006336 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 85.875394 seconds.
-  path: Assets/Prefabs/New Folder
-  artifactKey: Guid(bc8fde246a3d6974483806396923579b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/New Folder using Guid(bc8fde246a3d6974483806396923579b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc5ed9a9039ef6104574f14a3c71b573') in 0.005216 seconds
-  Import took 0.009229 seconds .
+  Time since last request: 1.260895 seconds.
+  path: Assets/DeLorean/Texturas_2
+  artifactKey: Guid(8da03d1bf64f06f4a9d50c8b950dd2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2 using Guid(8da03d1bf64f06f4a9d50c8b950dd2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '946d332043284496bd7d44d8bc9f140c') in 0.006447 seconds
+  Import took 0.010311 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.420824 seconds.
-  path: Assets/Prefabs
-  artifactKey: Guid(0e950574c920b8941ac8ebfde0cf7d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs using Guid(0e950574c920b8941ac8ebfde0cf7d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972f06a09f2dabca7d2f73f037b0cf6d') in 0.004772 seconds
-  Import took 0.008631 seconds .
+  Time since last request: 0.051126 seconds.
+  path: Assets/DeLorean/Texturas_2/Glass_Base_Color.png
+  artifactKey: Guid(41f5b6664ad4c844f8c22cfc637e3a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Glass_Base_Color.png using Guid(41f5b6664ad4c844f8c22cfc637e3a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5505483aa9d1d96b589c5151bde9e4ea') in 0.030197 seconds
+  Import took 0.035181 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 74.060402 seconds.
-  path: Assets/KB3D_NeoCities_UnityHDRP
-  artifactKey: Guid(d23fece3984ea704ba282e1749c38c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityHDRP using Guid(d23fece3984ea704ba282e1749c38c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c04ef6725808f942302d6cdaccd87ba') in 0.005342 seconds
-  Import took 0.009262 seconds .
+  Time since last request: 0.000171 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.007_Mixed_AO.png
+  artifactKey: Guid(f5214add8b8efd549a6815ce1ceac755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.007_Mixed_AO.png using Guid(f5214add8b8efd549a6815ce1ceac755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a18d3a857482428a09c87de1e21ae5') in 0.010213 seconds
+  Import took 0.013791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.010_Normal.png
+  artifactKey: Guid(777841a22ce4dae459276e2d6feb548e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.010_Normal.png using Guid(777841a22ce4dae459276e2d6feb548e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e5f91f242742a7efe81b59ace5fd29') in 0.016784 seconds
+  Import took 0.020733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.001_Metallic.png
+  artifactKey: Guid(b7e562e5214649340bdaa95f1b2ddccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.001_Metallic.png using Guid(b7e562e5214649340bdaa95f1b2ddccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c6fa4fbb7b86b738195df8ceacb4140') in 0.010593 seconds
+  Import took 0.014160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.007_Normal_OpenGL.png
+  artifactKey: Guid(189762b269e53e74997b7d8123b7c65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.007_Normal_OpenGL.png using Guid(189762b269e53e74997b7d8123b7c65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49381417e38d2c1565b15abc06e22e7f') in 0.015091 seconds
+  Import took 0.018658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.007_Metallic.png
+  artifactKey: Guid(9153f48946cc3d74893940379440774a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.007_Metallic.png using Guid(9153f48946cc3d74893940379440774a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e74f00c850410ab75e4a2d9468999b8') in 0.010962 seconds
+  Import took 0.014768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.010_Height.png
+  artifactKey: Guid(43d9d7c12ac62904fa95ef017967cc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.010_Height.png using Guid(43d9d7c12ac62904fa95ef017967cc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b00ec98e59b6e42d32168dc4cffbdd') in 0.010878 seconds
+  Import took 0.014545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.009_Mixed_AO.png
+  artifactKey: Guid(68d38cf87dcd13c4ca3b99a3f2899219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.009_Mixed_AO.png using Guid(68d38cf87dcd13c4ca3b99a3f2899219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f8832c63a37ff7bb5a0db7a9e79f14') in 0.020893 seconds
+  Import took 0.024540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.009_Normal.png
+  artifactKey: Guid(bcdfa36576d7faa4397da98529f4ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.009_Normal.png using Guid(bcdfa36576d7faa4397da98529f4ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4628e874413ac896b581b6c4eaedd494') in 0.010663 seconds
+  Import took 0.014227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.009_Metallic.png
+  artifactKey: Guid(b65db2f8c99c0754aaa8babcd79dfe6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.009_Metallic.png using Guid(b65db2f8c99c0754aaa8babcd79dfe6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73059cf87ceb2608cf68e7715765ac11') in 0.009963 seconds
+  Import took 0.013619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.004_Roughness.png
+  artifactKey: Guid(db1b1b3ebcb14344bb4395ea6bc8fcfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.004_Roughness.png using Guid(db1b1b3ebcb14344bb4395ea6bc8fcfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99280a321d89e4f74fb27f956b373b4a') in 0.014887 seconds
+  Import took 0.018891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/DeLorean/Texturas_2/Light1_Emissive.png
+  artifactKey: Guid(84f2f93695c641041978b0e9e6ed4856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Light1_Emissive.png using Guid(84f2f93695c641041978b0e9e6ed4856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '319a2b639f0395c295e6f807f558c3ff') in 0.011365 seconds
+  Import took 0.015026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.005_Roughness.png
+  artifactKey: Guid(8bdf7799bcb04174aa66f3551eaab04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.005_Roughness.png using Guid(8bdf7799bcb04174aa66f3551eaab04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82656b6fb7419ce9e5ce67fd3a80dfa9') in 0.009948 seconds
+  Import took 0.013960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.009_Height.png
+  artifactKey: Guid(ac81563f777264b478e94b0fa29c61ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.009_Height.png using Guid(ac81563f777264b478e94b0fa29c61ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db4e20c258d04ce14edef6fc668354cc') in 0.020608 seconds
+  Import took 0.024496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.004_Height.png
+  artifactKey: Guid(77d80a284390f97468cfae33a1f33f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.004_Height.png using Guid(77d80a284390f97468cfae33a1f33f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5e74d3d22c61017db0c0d2209bb8543') in 0.015429 seconds
+  Import took 0.019227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.006_Roughness.png
+  artifactKey: Guid(235a41cbeeedddd4b8f11bc8297498d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.006_Roughness.png using Guid(235a41cbeeedddd4b8f11bc8297498d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a3f46c12e185ae1a52dba63b0a0382') in 0.011104 seconds
+  Import took 0.014653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.002_Mixed_AO.png
+  artifactKey: Guid(1b9eb3e29df09794392435bbea659762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.002_Mixed_AO.png using Guid(1b9eb3e29df09794392435bbea659762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c684e2dd29e1afb16999de8b2dc58607') in 0.010298 seconds
+  Import took 0.014015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.002_Base_Color.png
+  artifactKey: Guid(8e89220a333023045bc46e01b63f1b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.002_Base_Color.png using Guid(8e89220a333023045bc46e01b63f1b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b9947c0d234e803d7698ebfe022ddc') in 0.010421 seconds
+  Import took 0.014079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.010_Mixed_AO.png
+  artifactKey: Guid(099cbd15492a3884a878cca59431bb49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.010_Mixed_AO.png using Guid(099cbd15492a3884a878cca59431bb49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf10cad71c00a933e3b33442d42caddf') in 0.011156 seconds
+  Import took 0.014698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/DeLorean/Texturas_2/Glass_Roughness.png
+  artifactKey: Guid(9fb932427b681a14ea74bf90009b330f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Glass_Roughness.png using Guid(9fb932427b681a14ea74bf90009b330f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a57cc09fae5ed27854cf407d32621c1') in 0.013154 seconds
+  Import took 0.016852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.001_Normal_OpenGL.png
+  artifactKey: Guid(9c1e96f6a008e0d4fafbb8cc198312f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.001_Normal_OpenGL.png using Guid(9c1e96f6a008e0d4fafbb8cc198312f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd361b706adb9cee941a4381e76ca607a') in 0.012541 seconds
+  Import took 0.016980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.006_Normal_OpenGL.png
+  artifactKey: Guid(53f5c8bdfaa4f1b4a967f2c48f276376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.006_Normal_OpenGL.png using Guid(53f5c8bdfaa4f1b4a967f2c48f276376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f233a584a9ee0410763470100e3db5') in 0.011081 seconds
+  Import took 0.014945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.002_Roughness.png
+  artifactKey: Guid(3a3e7807e1734984d94702d70986b140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.002_Roughness.png using Guid(3a3e7807e1734984d94702d70986b140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '642947aa3db2d16ebc076ad6d13592a8') in 0.011790 seconds
+  Import took 0.015324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.003_Metallic.png
+  artifactKey: Guid(cb7216620b16e9349a1c35c95cffc45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.003_Metallic.png using Guid(cb7216620b16e9349a1c35c95cffc45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0469d357610666444167543f858d1087') in 0.012249 seconds
+  Import took 0.016636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.007_Base_Color.png
+  artifactKey: Guid(5d0c69594b602564fb84228ae5b3e57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.007_Base_Color.png using Guid(5d0c69594b602564fb84228ae5b3e57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3185e6bb0e24e0caff18e1906f05e6bf') in 0.010230 seconds
+  Import took 0.014120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.003_Height.png
+  artifactKey: Guid(87a1b96ea22934c4da03929991cfdf17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.003_Height.png using Guid(87a1b96ea22934c4da03929991cfdf17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0e73630cef8108dc0014361091567e') in 0.009526 seconds
+  Import took 0.013563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.007_Roughness.png
+  artifactKey: Guid(aed6d12ee0f398c43b9f2d72fdd6cc88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.007_Roughness.png using Guid(aed6d12ee0f398c43b9f2d72fdd6cc88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0924545e797ac65e1172dc370f5ab5e9') in 0.009549 seconds
+  Import took 0.013197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.002_Metallic.png
+  artifactKey: Guid(aedb102eeb0b97f4693026f12136f6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.002_Metallic.png using Guid(aedb102eeb0b97f4693026f12136f6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89130c8a3fea5d8b648fd250bd2e9165') in 0.013252 seconds
+  Import took 0.017066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.005_Normal_OpenGL.png
+  artifactKey: Guid(d8da2d1df99e97d4499573bd5134f0c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.005_Normal_OpenGL.png using Guid(d8da2d1df99e97d4499573bd5134f0c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d3d237df6aafadf34e870fcaa667e9') in 0.013852 seconds
+  Import took 0.018507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/DeLorean/Texturas_2/Light1_Base_Color.png
+  artifactKey: Guid(bea58542e8feeb3468a0b00aaae0081c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Light1_Base_Color.png using Guid(bea58542e8feeb3468a0b00aaae0081c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b06fe5368ea1db6b43847dfaa0e8eb6a') in 0.010117 seconds
+  Import took 0.014104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.009_Normal_OpenGL.png
+  artifactKey: Guid(baadb764348a175499c655dc498f82d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.009_Normal_OpenGL.png using Guid(baadb764348a175499c655dc498f82d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb1350c224a13af377eb23b7f6b3f502') in 0.011316 seconds
+  Import took 0.015247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001497 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.006_Base_Color.png
+  artifactKey: Guid(0271f88bb65f3a64b82b9da780722756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.006_Base_Color.png using Guid(0271f88bb65f3a64b82b9da780722756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da0c1d1494665437d3ac5fc39950028') in 0.010695 seconds
+  Import took 0.014671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.002_Normal_OpenGL.png
+  artifactKey: Guid(7a2776eade2ff814cb1925ec64137fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.002_Normal_OpenGL.png using Guid(7a2776eade2ff814cb1925ec64137fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd14e0a1a43caa617a9dcf5828c76b578') in 0.010318 seconds
+  Import took 0.013919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/DeLorean/Texturas_2/Glass_Height.png
+  artifactKey: Guid(8f72a6a2e138a084da96a95adb7c81fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Glass_Height.png using Guid(8f72a6a2e138a084da96a95adb7c81fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b35a91c60062cc0cf9eb9b3abbd3c32') in 0.011002 seconds
+  Import took 0.014640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.006_Mixed_AO.png
+  artifactKey: Guid(a591b63bc0cee1b408236f2434e94ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.006_Mixed_AO.png using Guid(a591b63bc0cee1b408236f2434e94ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b552c626d435cc16757d01ed931e5c03') in 0.010927 seconds
+  Import took 0.014547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.010_Metallic.png
+  artifactKey: Guid(174916294ab201944ab3d9100769d2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.010_Metallic.png using Guid(174916294ab201944ab3d9100769d2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b191dc8991d3f78601d43ea482226b') in 0.013595 seconds
+  Import took 0.017277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.002_Height.png
+  artifactKey: Guid(8cfc0b6983f9b094cad6dc2e44a927c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.002_Height.png using Guid(8cfc0b6983f9b094cad6dc2e44a927c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '887f97bc5f4539e551f74c1eab0a7540') in 0.011463 seconds
+  Import took 0.015347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.005_Base_Color.png
+  artifactKey: Guid(7e4eecffa2b331449974a1650af9279b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.005_Base_Color.png using Guid(7e4eecffa2b331449974a1650af9279b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec0f6bd9cde64cec99c9053f079f8a0') in 0.009918 seconds
+  Import took 0.014146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/DeLorean/Texturas_2/Glass_Emissive.png
+  artifactKey: Guid(b47f1bfd4e4138d4d8ae0a74b8fb0621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Glass_Emissive.png using Guid(b47f1bfd4e4138d4d8ae0a74b8fb0621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040dbb16a54c189a059e48fb1bc257bf') in 0.016337 seconds
+  Import took 0.020546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.001_Height.png
+  artifactKey: Guid(cb43c22612d9add4fb3405e2218fb6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.001_Height.png using Guid(cb43c22612d9add4fb3405e2218fb6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b67dd51054804cd4bf008c8379f1c9c') in 0.010997 seconds
+  Import took 0.014552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.004_Base_Color.png
+  artifactKey: Guid(f46df8780eba20f44b767c45acfd86b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.004_Base_Color.png using Guid(f46df8780eba20f44b767c45acfd86b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '071cbe715327b3c3c5b6d41516796938') in 0.010040 seconds
+  Import took 0.013771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.009_Roughness.png
+  artifactKey: Guid(7fe3705543902e14db3b858a6ba83b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.009_Roughness.png using Guid(7fe3705543902e14db3b858a6ba83b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '426991fda47d57c5aee2bdc178ed324f') in 0.010845 seconds
+  Import took 0.014852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/DeLorean/Texturas_2/Light1_Metallic.png
+  artifactKey: Guid(80158b4f3d6654346bcd712d0b6acc43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Light1_Metallic.png using Guid(80158b4f3d6654346bcd712d0b6acc43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046438f0424d4a6183da6db758e8cecd') in 0.009725 seconds
+  Import took 0.013535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/DeLorean/Texturas_2/Light1_Height.png
+  artifactKey: Guid(bc58a8aad5258364b92bb2be7a2f30e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Light1_Height.png using Guid(bc58a8aad5258364b92bb2be7a2f30e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae1f3b5dfa11f02aeaae5769f0609e1') in 0.009631 seconds
+  Import took 0.013256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.004_Mixed_AO.png
+  artifactKey: Guid(1fd062666287a624f86d1ba053ddebfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.004_Mixed_AO.png using Guid(1fd062666287a624f86d1ba053ddebfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64411fc07fc6c5de4792b1f3d78b4af') in 0.010831 seconds
+  Import took 0.014824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.001_Normal.png
+  artifactKey: Guid(f957df8beae999246a19dae0d21c490b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.001_Normal.png using Guid(f957df8beae999246a19dae0d21c490b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '921035dc97e9922064ff8b78215583f3') in 0.010320 seconds
+  Import took 0.014058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.001_Base_Color.png
+  artifactKey: Guid(c9f07c7520968b142b5fc6bbbe635556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.001_Base_Color.png using Guid(c9f07c7520968b142b5fc6bbbe635556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '723d8a146f643693e33056e09a5c3d33') in 0.012004 seconds
+  Import took 0.015951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/DeLorean/Texturas_2/Light1_Roughness.png
+  artifactKey: Guid(a9c38d74976d4474996edeaac1ebb341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Light1_Roughness.png using Guid(a9c38d74976d4474996edeaac1ebb341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e9105ee7b95cd301d18f86e777333b') in 0.010685 seconds
+  Import took 0.014299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.007_Height.png
+  artifactKey: Guid(adb520f090afcf341b918a893161d295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.007_Height.png using Guid(adb520f090afcf341b918a893161d295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bcdf8cd7119275f416b56c7d4b8c651') in 0.010274 seconds
+  Import took 0.014216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.011_Base_Color.png
+  artifactKey: Guid(5dcddd3eba1cf594585ed78edb6cc373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.011_Base_Color.png using Guid(5dcddd3eba1cf594585ed78edb6cc373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae3040e758b11280479aba78b996e386') in 0.013918 seconds
+  Import took 0.017657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.001_Mixed_AO.png
+  artifactKey: Guid(1957209ea3628544a9dd3077a79980f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.001_Mixed_AO.png using Guid(1957209ea3628544a9dd3077a79980f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4be8bccd723749d01ca7bc919fb36b2') in 0.011930 seconds
+  Import took 0.015538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.010_Normal_OpenGL.png
+  artifactKey: Guid(84b5d13b0be591d49b4cf283c898580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.010_Normal_OpenGL.png using Guid(84b5d13b0be591d49b4cf283c898580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658bf4d3635ab50e406219cabc063a59') in 0.010937 seconds
+  Import took 0.014545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.003_Mixed_AO.png
+  artifactKey: Guid(f90742fd8f2635a48a8837e84ce4bfd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.003_Mixed_AO.png using Guid(f90742fd8f2635a48a8837e84ce4bfd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adbfedaf90731824fea4b47f2d6dd1ff') in 0.013750 seconds
+  Import took 0.017521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.007_Emissive.png
+  artifactKey: Guid(10e8e5699c7b11b45976e23a9b9fb4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.007_Emissive.png using Guid(10e8e5699c7b11b45976e23a9b9fb4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e80eeae19443dca9e4268b9752ffdaab') in 0.010647 seconds
+  Import took 0.014644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.003_Base_Color.png
+  artifactKey: Guid(9fe5fd7833bbd5a4bbd8dc041909a294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.003_Base_Color.png using Guid(9fe5fd7833bbd5a4bbd8dc041909a294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9f0d32a6e01cbe9bba27ac3941d6fc') in 0.010562 seconds
+  Import took 0.014269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.003_Roughness.png
+  artifactKey: Guid(ebc301c642527804f98dbfd6a6522f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.003_Roughness.png using Guid(ebc301c642527804f98dbfd6a6522f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e8e2109e4d98e2dbbb28c02f93ea66f') in 0.012791 seconds
+  Import took 0.016600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.004_Metallic.png
+  artifactKey: Guid(d119287e4414cb54493d391d556f5604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.004_Metallic.png using Guid(d119287e4414cb54493d391d556f5604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13cc3a40f2afb8896043a7794d56e9b7') in 0.010743 seconds
+  Import took 0.014739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/DeLorean/Texturas_2/Light1_Mixed_AO.png
+  artifactKey: Guid(6fa52e23daee5034aa85567d3a5c1cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Light1_Mixed_AO.png using Guid(6fa52e23daee5034aa85567d3a5c1cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3506d996a4196e4888b023b6da5c81e1') in 0.010218 seconds
+  Import took 0.013914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.006_Normal.png
+  artifactKey: Guid(b99bf9c37fcea6846b0c6845b19563be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.006_Normal.png using Guid(b99bf9c37fcea6846b0c6845b19563be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b23a2eeb679a41c5d8909f65951057df') in 0.016113 seconds
+  Import took 0.019740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.005_Height.png
+  artifactKey: Guid(fafc19752b9f0de41b5390769adde327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.005_Height.png using Guid(fafc19752b9f0de41b5390769adde327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f05483da9683c7629fa4a5e8a6198a6') in 0.009617 seconds
+  Import took 0.013302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.004_Normal_OpenGL.png
+  artifactKey: Guid(1081620920452264e815bd3f733992c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.004_Normal_OpenGL.png using Guid(1081620920452264e815bd3f733992c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1de6422783174d61cf8687b0f80dace9') in 0.010590 seconds
+  Import took 0.014316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.004_Normal.png
+  artifactKey: Guid(cdf5222a48841c248acd52135ceef33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.004_Normal.png using Guid(cdf5222a48841c248acd52135ceef33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf45a4c5cc967c8fb0bea4c0365af7f') in 0.014455 seconds
+  Import took 0.018261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.003_Normal.png
+  artifactKey: Guid(c4658a947172d6a4d905334709c8fa0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.003_Normal.png using Guid(c4658a947172d6a4d905334709c8fa0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351db3603cf2c9707dae3fbb6efdd87c') in 0.011293 seconds
+  Import took 0.014927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.005_Mixed_AO.png
+  artifactKey: Guid(b7a6ec60322118545bd5a572e676924b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.005_Mixed_AO.png using Guid(b7a6ec60322118545bd5a572e676924b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f5f18361dbd7ce9b9495a389fb3bfba') in 0.009698 seconds
+  Import took 0.013292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/DeLorean/Texturas_2/Glass_Normal_OpenGL.png
+  artifactKey: Guid(8085e31ec99c7094b9033fb3206cb8b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Glass_Normal_OpenGL.png using Guid(8085e31ec99c7094b9033fb3206cb8b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c795edb9990cb295b36dce30de3156d6') in 0.012503 seconds
+  Import took 0.016140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.007_Normal.png
+  artifactKey: Guid(6f9148368bc022d47a95097bc2111b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.007_Normal.png using Guid(6f9148368bc022d47a95097bc2111b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '027a4fce93b0a78cf73ecdc7723070cc') in 0.010710 seconds
+  Import took 0.014306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/DeLorean/Texturas_2/Glass_Metallic.png
+  artifactKey: Guid(b938cda2bb3b4c342867f01ea4eca1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Glass_Metallic.png using Guid(b938cda2bb3b4c342867f01ea4eca1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f98fe6156199be5c763c8d714b0a32') in 0.010271 seconds
+  Import took 0.013980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.006_Height.png
+  artifactKey: Guid(3f07f3a989aec0f41af0e429826f8b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.006_Height.png using Guid(3f07f3a989aec0f41af0e429826f8b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec8464951809605bf14a6a9f6c23d57') in 0.013652 seconds
+  Import took 0.017354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/DeLorean/Texturas_2/Light1_Normal.png
+  artifactKey: Guid(455a86cebc10625488b0b01d34482695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Light1_Normal.png using Guid(455a86cebc10625488b0b01d34482695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783a8bb807dba59543422e8ddd1ee668') in 0.009644 seconds
+  Import took 0.013434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.001_Roughness.png
+  artifactKey: Guid(e224aa23bd099e94b897e9cf4d6ea934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.001_Roughness.png using Guid(e224aa23bd099e94b897e9cf4d6ea934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a0bd0d9b0745e8be231fdf4b09d831b') in 0.011072 seconds
+  Import took 0.014734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.002_Normal.png
+  artifactKey: Guid(c5853e4c9a1ced949b9bb48ad63d32aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.002_Normal.png using Guid(c5853e4c9a1ced949b9bb48ad63d32aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc740f0e4cf0a36919f3dde477409f4') in 0.013887 seconds
+  Import took 0.017559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/DeLorean/Texturas_2/Light1_Normal_OpenGL.png
+  artifactKey: Guid(de447308699210045b2f526545aabd4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Light1_Normal_OpenGL.png using Guid(de447308699210045b2f526545aabd4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f3dda7fd20356c320742c0f0f0138d4') in 0.011712 seconds
+  Import took 0.015752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.003_Normal_OpenGL.png
+  artifactKey: Guid(699402fe2907ce24682afc856a39796c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.003_Normal_OpenGL.png using Guid(699402fe2907ce24682afc856a39796c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd018ed55f57261b085124f07bdbd6166') in 0.010021 seconds
+  Import took 0.014060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.005_Normal.png
+  artifactKey: Guid(8b5661051e3e847439da28a1b56945e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.005_Normal.png using Guid(8b5661051e3e847439da28a1b56945e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3279079097f57b980ad4075b96f0626d') in 0.009533 seconds
+  Import took 0.013102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.009_Base_Color.png
+  artifactKey: Guid(15491f033f0612449a8216a35d0bf2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.009_Base_Color.png using Guid(15491f033f0612449a8216a35d0bf2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9adb003453a45cdc041d8d8d0cb0671c') in 0.010814 seconds
+  Import took 0.014439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/DeLorean/Texturas_2/Glass_Normal.png
+  artifactKey: Guid(ea20314c72e68284097e6162458c9d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Glass_Normal.png using Guid(ea20314c72e68284097e6162458c9d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f5fc49a47277adf4afbe7381cddeb9') in 0.010163 seconds
+  Import took 0.014082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.010_Roughness.png
+  artifactKey: Guid(2e0fda956fc6d574385e23b03418eb5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.010_Roughness.png using Guid(2e0fda956fc6d574385e23b03418eb5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e51307981100298f50f8c045f117d70') in 0.015649 seconds
+  Import took 0.019664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/DeLorean/Texturas_2/Glass_Mixed_AO.png
+  artifactKey: Guid(14229fc213a55034c936c73c85837e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Glass_Mixed_AO.png using Guid(14229fc213a55034c936c73c85837e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45de3c753021339998756112ec72a175') in 0.010919 seconds
+  Import took 0.014994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.006_Metallic.png
+  artifactKey: Guid(d67f81b6e41d1734fa223dca68c7109b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.006_Metallic.png using Guid(d67f81b6e41d1734fa223dca68c7109b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de935cfaadedde370bc8ade10f93cd89') in 0.010185 seconds
+  Import took 0.014035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.005_Metallic.png
+  artifactKey: Guid(e4cb033c2821cd94b8e9007da8c56bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.005_Metallic.png using Guid(e4cb033c2821cd94b8e9007da8c56bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36562f2758eb17af2eb951c29b5b9337') in 0.009570 seconds
+  Import took 0.013267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.010_Base_Color.png
+  artifactKey: Guid(aafe9c2e7bde85244840c323d05796cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.010_Base_Color.png using Guid(aafe9c2e7bde85244840c323d05796cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e69a8a561d0aca6931d1f3a535fd090') in 0.011147 seconds
+  Import took 0.014860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.006_Metallic.png
+  artifactKey: Guid(d67f81b6e41d1734fa223dca68c7109b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.006_Metallic.png using Guid(d67f81b6e41d1734fa223dca68c7109b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de935cfaadedde370bc8ade10f93cd89') in 0.006996 seconds
+  Import took 0.010908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/DeLorean/Texturas_2/Material.010_Base_Color.png
+  artifactKey: Guid(aafe9c2e7bde85244840c323d05796cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Texturas_2/Material.010_Base_Color.png using Guid(aafe9c2e7bde85244840c323d05796cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e69a8a561d0aca6931d1f3a535fd090') in 0.011907 seconds
+  Import took 0.015852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.834423 seconds.
+  path: Assets/DeLorean/Materiales/luces.mat
+  artifactKey: Guid(b019891eba640c74eb3723a5618a98ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/luces.mat using Guid(b019891eba640c74eb3723a5618a98ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72697323fba070083f0f25c14e5608d3') in 0.546809 seconds
+  Import took 0.550890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/DeLorean/Materiales/material0.mat
+  artifactKey: Guid(2304011177de0c44a9a826254d18cdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material0.mat using Guid(2304011177de0c44a9a826254d18cdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b845b8ff39534a9f907e69eb9dc103b2') in 0.341836 seconds
+  Import took 0.345615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/DeLorean/Materiales/material10.mat
+  artifactKey: Guid(ad24953e6942ed24aaaca318d077ddd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material10.mat using Guid(ad24953e6942ed24aaaca318d077ddd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b89563be7899a84de366c8ca2ed274b') in 0.016809 seconds
+  Import took 0.020987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/DeLorean/Materiales/Material1.mat
+  artifactKey: Guid(be06d5ba402c6224ba775a899a7d6c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/Material1.mat using Guid(be06d5ba402c6224ba775a899a7d6c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b0cb7b6718db5d9e1e92a3ecae84cc') in 0.017537 seconds
+  Import took 0.021343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/DeLorean/Materiales/material17.mat
+  artifactKey: Guid(495ae78f16f0bfd4f8ee0d2bb95bbcfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material17.mat using Guid(495ae78f16f0bfd4f8ee0d2bb95bbcfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f40b0ee7ce75ac96f1fabce3a265a5') in 0.017243 seconds
+  Import took 0.022135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/DeLorean/Materiales/material7.mat
+  artifactKey: Guid(5d033106050a848438bf391e5f67a8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material7.mat using Guid(5d033106050a848438bf391e5f67a8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b0f95d99e3f232400aaba6f4c73915') in 0.017461 seconds
+  Import took 0.021690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/DeLorean/Materiales/material16.mat
+  artifactKey: Guid(b0c8d06b0b2a8964d85f01914dfd40c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material16.mat using Guid(b0c8d06b0b2a8964d85f01914dfd40c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095099d3892b9f2eefc1bf86687be579') in 0.015664 seconds
+  Import took 0.020068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/DeLorean/Materiales/material3.mat
+  artifactKey: Guid(e72e171695b3432429d50fc5bb439434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material3.mat using Guid(e72e171695b3432429d50fc5bb439434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb5c3d99bf15ebd5ff73ff4e690e81ee') in 0.016781 seconds
+  Import took 0.020575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/DeLorean/Materiales/Material 25.mat
+  artifactKey: Guid(c8c73e58993965e4084ae369043d78da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/Material 25.mat using Guid(c8c73e58993965e4084ae369043d78da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58b7fcce35734b1f980ff07c0a5c374f') in 0.015508 seconds
+  Import took 0.019494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/DeLorean/Materiales/material22.mat
+  artifactKey: Guid(3ad0e1a5d2694484ba60af8bdf1e4f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material22.mat using Guid(3ad0e1a5d2694484ba60af8bdf1e4f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ec2f825ad12317f649ac189032feb8') in 0.013081 seconds
+  Import took 0.017222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/DeLorean/Materiales/material9.mat
+  artifactKey: Guid(8490e305dd7a949449343306df3a6929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material9.mat using Guid(8490e305dd7a949449343306df3a6929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '362ea1d7e2ac90b372e57e50a14cf834') in 0.020347 seconds
+  Import took 0.024434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/DeLorean/Materiales/material6.mat
+  artifactKey: Guid(b64787126645dbf4eaf4b6650e8d5c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material6.mat using Guid(b64787126645dbf4eaf4b6650e8d5c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb88850efccbeccde8ff75366a367c0') in 0.015967 seconds
+  Import took 0.019661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/DeLorean/Materiales/material18.mat
+  artifactKey: Guid(13fbb675045de034788ded46a83631f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material18.mat using Guid(13fbb675045de034788ded46a83631f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7000a80dfcf46f19f8148ac25a6f75') in 0.016936 seconds
+  Import took 0.020993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/DeLorean/Materiales/material2.mat
+  artifactKey: Guid(d8feed83a1519ce498c60e4feae8d625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material2.mat using Guid(d8feed83a1519ce498c60e4feae8d625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74e6788fbb5f2c277342d7cd926e433') in 0.016611 seconds
+  Import took 0.020343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/DeLorean/Materiales/material19.mat
+  artifactKey: Guid(80d82a5c3b643f74392b0c2ac4098f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/Materiales/material19.mat using Guid(80d82a5c3b643f74392b0c2ac4098f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee8a501776716a631d3a0941947b285') in 0.335529 seconds
+  Import took 0.339201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.905935 seconds.
+  path: Assets/DeLorean/source/DeLorean BTF Sketchfabv4.fbx
+  artifactKey: Guid(c41e7f550b311704db472af3b9ecc1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeLorean/source/DeLorean BTF Sketchfabv4.fbx using Guid(c41e7f550b311704db472af3b9ecc1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd72d9efda566133affc58c4d4fe250f4') in 0.776592 seconds
+  Import took 0.782764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.398578 seconds.
+  path: Assets/Scenes/prueba.unity
+  artifactKey: Guid(dcebb2f3c73f6f84b94c950ce4e48f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/prueba.unity using Guid(dcebb2f3c73f6f84b94c950ce4e48f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdd86d4a55d3bd2a5fbef5b02bdab02a') in 0.008627 seconds
+  Import took 0.012668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.799383 seconds.
+  path: Assets/Prefabs/AirMag.prefab
+  artifactKey: Guid(e241187c81b97684e99c04fb7aa8f88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/AirMag.prefab using Guid(e241187c81b97684e99c04fb7aa8f88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e469a12b41ed75cbc676e9c782574e14') in 0.014897 seconds
+  Import took 0.018966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Prefabs/Terreno.prefab
+  artifactKey: Guid(339c0cc48d060ba44939de8347ffd712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Terreno.prefab using Guid(339c0cc48d060ba44939de8347ffd712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78732802343ff15787655e59dadf3519') in 0.341155 seconds
+  Import took 0.344833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Prefabs/Carretera.prefab
+  artifactKey: Guid(dd1a53f10dfadc549a5f0351dda7857d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Carretera.prefab using Guid(dd1a53f10dfadc549a5f0351dda7857d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8628b048cf6c69eb5883d90410675f5') in 0.012958 seconds
+  Import took 0.016581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Prefabs/Cube.prefab
+  artifactKey: Guid(e36b7db8248e2b14bba8debc23c91c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cube.prefab using Guid(e36b7db8248e2b14bba8debc23c91c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dfc436a1e31eb7ac046c960201a18cf') in 0.014854 seconds
+  Import took 0.018498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Prefabs/Proyectil.prefab
+  artifactKey: Guid(af1597999abb9184cb91fa028d30e3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Proyectil.prefab using Guid(af1597999abb9184cb91fa028d30e3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33608fb7d386fee0f024d3c124aa912f') in 0.012573 seconds
+  Import took 0.016212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Prefabs/Columna.prefab
+  artifactKey: Guid(b9058c64ce78d5d48ae1f9af254ecc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Columna.prefab using Guid(b9058c64ce78d5d48ae1f9af254ecc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94d15945bb6f8e31219e71316511330e') in 0.014368 seconds
+  Import took 0.018289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Prefabs/Rock.prefab
+  artifactKey: Guid(f0f1e482f79c74349a66417a7dc140ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rock.prefab using Guid(f0f1e482f79c74349a66417a7dc140ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c127b824239d9730ab45408bfa86a647') in 0.259833 seconds
+  Import took 0.263752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Prefabs/Suelo_tierra.prefab
+  artifactKey: Guid(516867aa0d0e4294e87a772c9fa4c8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Suelo_tierra.prefab using Guid(516867aa0d0e4294e87a772c9fa4c8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295a0310947ee9443c4f4c91a54bd7a2') in 0.017038 seconds
+  Import took 0.020682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Prefabs/DeLorean_final.prefab
+  artifactKey: Guid(11b8e74ac9ec5164b87c5caf96062ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/DeLorean_final.prefab using Guid(11b8e74ac9ec5164b87c5caf96062ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a79947f77b9ae6d39c2b5b9b031830d') in 0.070974 seconds
+  Import took 0.078598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Prefabs/Barriles.prefab
+  artifactKey: Guid(d158e925ca8092848a2c399d6ba8e079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Barriles.prefab using Guid(d158e925ca8092848a2c399d6ba8e079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78c5ecaa5cdafd9b824e56097fd82d1f') in 0.017597 seconds
+  Import took 0.021735 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001148 seconds.
+Registered in 0.001649 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.127 seconds
+- Completed reload, in  1.176 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2619 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.2 MB.
-System memory in use after: 148.4 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3304.
-Total: 2.032600 ms (FindLiveObjects: 0.274000 ms CreateObjectMapping: 0.099700 ms MarkObjects: 1.575800 ms  DeleteObjects: 0.082300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.098268 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.790 seconds
-Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2619 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.2 MB.
-System memory in use after: 148.4 MB.
+Unloading 2695 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.0 MB.
+System memory in use after: 126.6 MB.
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3307.
-Total: 5.503200 ms (FindLiveObjects: 0.950500 ms CreateObjectMapping: 0.477500 ms MarkObjects: 3.979000 ms  DeleteObjects: 0.094000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 562.033680 seconds.
-  path: Assets/modelado/DeLorean/CyberpunkDeLorean.FBX
-  artifactKey: Guid(70c1bd4d2d3d26d44a72aef45eff8aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/modelado/DeLorean/CyberpunkDeLorean.FBX using Guid(70c1bd4d2d3d26d44a72aef45eff8aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca097e781d0391ce7714b3b1feccaa0') in 0.889631 seconds
-  Import took 0.900593 seconds .
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 3240.
+Total: 6.729000 ms (FindLiveObjects: 0.436100 ms CreateObjectMapping: 0.086100 ms MarkObjects: 2.733600 ms  DeleteObjects: 3.471400 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2860.575653 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn
-  artifactKey: Guid(0610346498190bc468d85bcde7f9d946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn using Guid(0610346498190bc468d85bcde7f9d946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0923c230dfbfca3cef9c4071a3cdac42') in 0.007455 seconds
-  Import took 0.012136 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.707006 seconds.
-  path: Assets/Materiales
-  artifactKey: Guid(8b70f280e3b21fa469e7a0cc3a6afaac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materiales using Guid(8b70f280e3b21fa469e7a0cc3a6afaac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0093e1b4ca058b91022882efc7af06b4') in 0.006379 seconds
-  Import took 0.010920 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.534244 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/Materials
-  artifactKey: Guid(f971764a6c5bd4e46aa59c3f2f0ed30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/Materials using Guid(f971764a6c5bd4e46aa59c3f2f0ed30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2507db4fdb3c2e362fb391d351daa66') in 0.005918 seconds
-  Import took 0.010223 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 75.893002 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgLG_A.fbx
-  artifactKey: Guid(b93283bb90cef8f45aeb350c3ca531e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgLG_A.fbx using Guid(b93283bb90cef8f45aeb350c3ca531e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3989b8b6ab986a7b98e8e032db5d5359') in 0.213776 seconds
-  Import took 0.224206 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 55.775125 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgLG_C.fbx
-  artifactKey: Guid(6294722d464133741a4c027ae74c7c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgLG_C.fbx using Guid(6294722d464133741a4c027ae74c7c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0836d55f0dac66eb105d37efebbf1564') in 0.131189 seconds
-  Import took 0.140129 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 200.881056 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/Scenes
-  artifactKey: Guid(a6fe0002f755c2940be8bfb0de73bd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/Scenes using Guid(a6fe0002f755c2940be8bfb0de73bd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2c67c1db4a82238525e9b36e5affc1f') in 0.007265 seconds
-  Import took 0.012044 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.002943 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/Scenes/KB3D_NeoCities.unity
-  artifactKey: Guid(aeb24c407f19d294bace434d94006f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/Scenes/KB3D_NeoCities.unity using Guid(aeb24c407f19d294bace434d94006f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58709373055e8d89eef476c480ab64c3') in 0.007310 seconds
-  Import took 0.011288 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 297.410714 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgSM_A.fbx
-  artifactKey: Guid(626e2db95b2102946bd9f880b0e6aa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgSM_A.fbx using Guid(626e2db95b2102946bd9f880b0e6aa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d213624f043f0c105a9c051b5ee0c6') in 0.067381 seconds
-  Import took 0.074984 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.563244 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgSM_B.fbx
-  artifactKey: Guid(5c532103bd694ef41806d4c693147674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgSM_B.fbx using Guid(5c532103bd694ef41806d4c693147674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8304c43cd057bd42fc3b81eb7b745fd3') in 0.157324 seconds
-  Import took 0.167951 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 175.014491 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgSM_C.fbx
-  artifactKey: Guid(df16acc325f49f6419feaabfb4d5ba0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgSM_C.fbx using Guid(df16acc325f49f6419feaabfb4d5ba0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd81200e2dc2b110bb39dc50548673d39') in 0.173385 seconds
-  Import took 0.182818 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 140.094942 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgMD_C.fbx
-  artifactKey: Guid(80fd8f2fc560c4a40b89cdc897e03db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities/KB3D_NEC_BldgMD_C.fbx using Guid(80fd8f2fc560c4a40b89cdc897e03db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629211d907733026d3e134f9d26149f7') in 0.089294 seconds
-  Import took 0.097879 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001241 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.171 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2619 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.8 MB.
-System memory in use after: 149.0 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3379.
-Total: 2.282000 ms (FindLiveObjects: 0.245500 ms CreateObjectMapping: 0.092600 ms MarkObjects: 1.862400 ms  DeleteObjects: 0.080800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001150 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.116 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2619 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.8 MB.
-System memory in use after: 149.0 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3382.
-Total: 2.469100 ms (FindLiveObjects: 0.295500 ms CreateObjectMapping: 0.129900 ms MarkObjects: 1.948100 ms  DeleteObjects: 0.094800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 907.469613 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '829ec0194dd50ff81e317cd3c71a518b') in 0.017886 seconds
-  Import took 0.022752 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.060261 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities
-  artifactKey: Guid(d9f01cf4146be9244a754b5d1e6aee59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/NeoCities using Guid(d9f01cf4146be9244a754b5d1e6aee59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba1ad97666d38287564f14501ce2c362') in 0.006772 seconds
-  Import took 0.010724 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.893688 seconds.
-  path: Assets/Scenes/Inicio.unity
-  artifactKey: Guid(4969ca1ad5fd3234083a03578926867c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Inicio.unity using Guid(4969ca1ad5fd3234083a03578926867c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0023039f89cd0915c099477011c3e87a') in 0.007097 seconds
-  Import took 0.011186 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.849280 seconds.
+  Time since last request: 17.244646 seconds.
   path: Assets/Scenes/Nivel_1.unity
   artifactKey: Guid(ef0d57dad8682534abc4c96228ca84db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Nivel_1.unity using Guid(ef0d57dad8682534abc4c96228ca84db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5664553dafa7588ebdb78326fb8309') in 0.007077 seconds
-  Import took 0.011234 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.092131 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/ProjectSettings
-  artifactKey: Guid(685abb57e3e700c4ba9c0611c88beec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/ProjectSettings using Guid(685abb57e3e700c4ba9c0611c88beec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f986294ba989ba78b8e4d05662ac48b') in 0.006495 seconds
-  Import took 0.010668 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.035630 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/ProjectSettings
-  artifactKey: Guid(685abb57e3e700c4ba9c0611c88beec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/ProjectSettings using Guid(685abb57e3e700c4ba9c0611c88beec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f986294ba989ba78b8e4d05662ac48b') in 0.106822 seconds
-  Import took 0.113217 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.353069 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/ProjectSettings/ProjectVersion.txt
-  artifactKey: Guid(fb972a7739e0af641a2d46bf5c3c7884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/ProjectSettings/ProjectVersion.txt using Guid(fb972a7739e0af641a2d46bf5c3c7884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae880c214a2729b0b561251a1577d03') in 0.012946 seconds
-  Import took 0.016976 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000714 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/ProjectSettings/ProjectVersion.txt
-  artifactKey: Guid(fb972a7739e0af641a2d46bf5c3c7884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/ProjectSettings/ProjectVersion.txt using Guid(fb972a7739e0af641a2d46bf5c3c7884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae880c214a2729b0b561251a1577d03') in 0.002563 seconds
-  Import took 0.006252 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.026869 seconds.
-  path: Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/CommonTextures
-  artifactKey: Guid(f1250cba06ab0274bb13d146a2caaf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KB3D_NeoCities_UnityBuiltIn/Assets/KB3D/CommonTextures using Guid(f1250cba06ab0274bb13d146a2caaf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0c63a25e61e2609b302a4fe69d8cbc5') in 0.005314 seconds
-  Import took 0.009254 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.120327 seconds.
-  path: Assets/Free Stylized Skybox/CubeMap/Textures/Sky_Anime_03_Day_a.png
-  artifactKey: Guid(e3de3e8435d45a64fa4aa46634ced55a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Stylized Skybox/CubeMap/Textures/Sky_Anime_03_Day_a.png using Guid(e3de3e8435d45a64fa4aa46634ced55a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b57fe500b478ccdb52134198503c12f') in 0.254234 seconds
-  Import took 0.261947 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.338497 seconds.
-  path: Assets/Free Stylized Skybox/CubeMap/Textures/Sky_Anime_11_morning_a.png
-  artifactKey: Guid(c1473a09822798a41a9cfa11f2721db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Stylized Skybox/CubeMap/Textures/Sky_Anime_11_morning_a.png using Guid(c1473a09822798a41a9cfa11f2721db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '934cf1df537ed859606a22de0725f078') in 0.095300 seconds
-  Import took 0.104277 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.886357 seconds.
-  path: Assets/Free Stylized Skybox/CubeMap/Textures/Sky_Anime_18_day_a.png
-  artifactKey: Guid(b15764350a2285e49a165af927da5da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Stylized Skybox/CubeMap/Textures/Sky_Anime_18_day_a.png using Guid(b15764350a2285e49a165af927da5da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486d01bb60e9d12f2246b3b334864aeb') in 0.079283 seconds
-  Import took 0.086820 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.901501 seconds.
-  path: Assets/Free Stylized Skybox/CubeMap/Textures/Sky_Anime_15_Day_a.png
-  artifactKey: Guid(fca5a57d63136f6428a1d31d1ab2c777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Stylized Skybox/CubeMap/Textures/Sky_Anime_15_Day_a.png using Guid(fca5a57d63136f6428a1d31d1ab2c777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222893e47e2b497a6fce0f4ce011a106') in 0.104696 seconds
-  Import took 0.112245 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.875604 seconds.
-  path: Assets/Free Stylized Skybox/CubeMap/Textures/Sky_LowPoly_01_Day_a.png
-  artifactKey: Guid(15941f70fce71784da1321794120ea6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Stylized Skybox/CubeMap/Textures/Sky_LowPoly_01_Day_a.png using Guid(15941f70fce71784da1321794120ea6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f03afe452a5f0d7377e58f26dc895e79') in 0.068821 seconds
-  Import took 0.076201 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.763319 seconds.
-  path: Assets/Free Stylized Skybox/CubeMap/Textures/Sky_LowPoly_02_Night_a.png
-  artifactKey: Guid(b4503954fd147c94180872808dde9eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Stylized Skybox/CubeMap/Textures/Sky_LowPoly_02_Night_a.png using Guid(b4503954fd147c94180872808dde9eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2347b6eaf17845e625da83e651267551') in 0.102959 seconds
-  Import took 0.110913 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001423 seconds.
-  path: Assets/Free Stylized Skybox/CubeMap/Textures/Sky_LowPoly_02_Night_a.png
-  artifactKey: Guid(b4503954fd147c94180872808dde9eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Stylized Skybox/CubeMap/Textures/Sky_LowPoly_02_Night_a.png using Guid(b4503954fd147c94180872808dde9eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2347b6eaf17845e625da83e651267551') in 0.072063 seconds
-  Import took 0.079580 seconds .
+Start importing Assets/Scenes/Nivel_1.unity using Guid(ef0d57dad8682534abc4c96228ca84db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6037149faab8a702764463ae039eb79b') in 0.049524 seconds
+  Import took 0.053920 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001208 seconds.
+Registered in 0.001545 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.111 seconds
+- Completed reload, in  1.139 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2619 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.9 MB.
-System memory in use after: 149.1 MB.
+Unloading 2695 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.1 MB.
+System memory in use after: 126.7 MB.
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3388.
-Total: 2.436000 ms (FindLiveObjects: 0.282200 ms CreateObjectMapping: 0.111800 ms MarkObjects: 1.949000 ms  DeleteObjects: 0.092200 ms)
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 3243.
+Total: 5.179700 ms (FindLiveObjects: 0.259200 ms CreateObjectMapping: 0.067700 ms MarkObjects: 2.019800 ms  DeleteObjects: 2.832200 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001074 seconds.
+Registered in 0.001629 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.088 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2619 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.9 MB.
-System memory in use after: 149.1 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3391.
-Total: 2.381400 ms (FindLiveObjects: 0.369900 ms CreateObjectMapping: 0.123100 ms MarkObjects: 1.761700 ms  DeleteObjects: 0.126000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001236 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
@@ -537,37 +1096,326 @@ Mono: successfully reloaded assembly
 - Completed reload, in  1.120 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2619 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.9 MB.
-System memory in use after: 149.1 MB.
+Unloading 2695 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.2 MB.
+System memory in use after: 126.7 MB.
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3394.
-Total: 2.399800 ms (FindLiveObjects: 0.397900 ms CreateObjectMapping: 0.128700 ms MarkObjects: 1.776300 ms  DeleteObjects: 0.095900 ms)
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 3246.
+Total: 5.607800 ms (FindLiveObjects: 0.339600 ms CreateObjectMapping: 0.125800 ms MarkObjects: 2.251700 ms  DeleteObjects: 2.889500 ms)
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001285 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.099 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2619 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.9 MB.
-System memory in use after: 149.1 MB.
+Received Import Request.
+  Time since last request: 1389.922147 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials
+  artifactKey: Guid(733415382638c1246a77dac58287e44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials using Guid(733415382638c1246a77dac58287e44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2424b84825de3db33cd5793cf3e7af1a') in 0.010654 seconds
+  Import took 0.014572 seconds .
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3397.
-Total: 2.405300 ms (FindLiveObjects: 0.333300 ms CreateObjectMapping: 0.094100 ms MarkObjects: 1.828300 ms  DeleteObjects: 0.148200 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 0.012535 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials
+  artifactKey: Guid(733415382638c1246a77dac58287e44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials using Guid(733415382638c1246a77dac58287e44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2424b84825de3db33cd5793cf3e7af1a') in 0.002668 seconds
+  Import took 0.005994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.079880 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/Cars_Material.mat
+  artifactKey: Guid(b8ff3dbf2d1811b488591cfb25be7ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/Cars_Material.mat using Guid(b8ff3dbf2d1811b488591cfb25be7ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98fb0b35c37ac6cd49fb71817c928284') in 0.203106 seconds
+  Import took 0.207465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/Front_Lights_Material.mat
+  artifactKey: Guid(8db262d26fcf2a94e88c9c276f6de722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/Front_Lights_Material.mat using Guid(8db262d26fcf2a94e88c9c276f6de722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d8a41e5cd6246805537ef687839ec3') in 0.011418 seconds
+  Import took 0.014766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/Rear_Lights_Material.mat
+  artifactKey: Guid(4a98cfae850de544680dc222604c30a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/Rear_Lights_Material.mat using Guid(4a98cfae850de544680dc222604c30a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aef44c140da2c5a4885bb1a1e32c74a') in 0.011406 seconds
+  Import took 0.015376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.427567 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs/RTI
+  artifactKey: Guid(a22597bc5b633f842a5d71f59001ad66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs/RTI using Guid(a22597bc5b633f842a5d71f59001ad66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1daabbeb3666d927abdd9caa3c7addf7') in 0.006604 seconds
+  Import took 0.010307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053248 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Blue.prefab
+  artifactKey: Guid(9d71ac273b96d3a4dad4d3d045e12374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Blue.prefab using Guid(9d71ac273b96d3a4dad4d3d045e12374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b41ff595feaf05cee1def92370f48868') in 0.028620 seconds
+  Import took 0.032934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Yellow.prefab
+  artifactKey: Guid(1e45980f21c0609498b024a56b2d836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Yellow.prefab using Guid(1e45980f21c0609498b024a56b2d836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c5d63371b2ccb1ba0e481fcdd30ad6') in 0.013585 seconds
+  Import took 0.017066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Midnight.prefab
+  artifactKey: Guid(c2122042d3617904387e81f77f9d136b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Midnight.prefab using Guid(c2122042d3617904387e81f77f9d136b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c918bb899e13d2810c0eac71cad98b13') in 0.019749 seconds
+  Import took 0.023217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Gray.prefab
+  artifactKey: Guid(4451c7d9583da4941901eaa5cfaee8ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Gray.prefab using Guid(4451c7d9583da4941901eaa5cfaee8ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2991018a9dac10fbc30f91d82069eb9e') in 0.020722 seconds
+  Import took 0.024320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Red.prefab
+  artifactKey: Guid(9b0dd12705317ed4e97c9b8ec0575948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Red.prefab using Guid(9b0dd12705317ed4e97c9b8ec0575948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69db0534c0c567fda19bf6e7be92aa5f') in 0.025517 seconds
+  Import took 0.030121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Orange.prefab
+  artifactKey: Guid(103c636634d3cbb48b7ab43e78bc13b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Orange.prefab using Guid(103c636634d3cbb48b7ab43e78bc13b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a49ec89030a7296d8d777c7479f0695a') in 0.025538 seconds
+  Import took 0.029594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.187346 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Meshes/RTI
+  artifactKey: Guid(3352654478a52b147b0d538abde9d47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Meshes/RTI using Guid(3352654478a52b147b0d538abde9d47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52dfd819ac1a2428e9d5fdac667b2be') in 0.002519 seconds
+  Import took 0.006435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090087 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Blue.fbx
+  artifactKey: Guid(f15c0590c7e20ad428dbdd23d877ce10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Blue.fbx using Guid(f15c0590c7e20ad428dbdd23d877ce10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de1d57e2f02ca056080e7eb136515b21') in 0.065644 seconds
+  Import took 0.070543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Red.fbx
+  artifactKey: Guid(6dd1c8d4a2f0c874bb33f3540ba4feb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Red.fbx using Guid(6dd1c8d4a2f0c874bb33f3540ba4feb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6598a8926894945300af06167f52e17') in 0.045589 seconds
+  Import took 0.048996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Midnight.fbx
+  artifactKey: Guid(82f50dfbb40874548a3e15ae239efea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Midnight.fbx using Guid(82f50dfbb40874548a3e15ae239efea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69df9289d997514e5d4bc9791b55255d') in 0.044946 seconds
+  Import took 0.048371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Orange.fbx
+  artifactKey: Guid(1a6f1e0dcbcf70d4e921cf31e369f71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Orange.fbx using Guid(1a6f1e0dcbcf70d4e921cf31e369f71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab408d9af7ad75ceb7fbd28ed9a8fc76') in 0.057076 seconds
+  Import took 0.060738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Gray.fbx
+  artifactKey: Guid(080ea7e60bb386d4db9680f45dfedaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Gray.fbx using Guid(080ea7e60bb386d4db9680f45dfedaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c20b43a5654b6089d02e8d0f8d69f9') in 0.044355 seconds
+  Import took 0.048386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Yellow.fbx
+  artifactKey: Guid(96824538f1786ea438429bee9309e06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Yellow.fbx using Guid(96824538f1786ea438429bee9309e06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92ed92a1a13777cb99d1eb9a48ea23fb') in 0.045025 seconds
+  Import took 0.049169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013510 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Yellow.fbx
+  artifactKey: Guid(96824538f1786ea438429bee9309e06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Meshes/RTI/RTI_Yellow.fbx using Guid(96824538f1786ea438429bee9309e06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92ed92a1a13777cb99d1eb9a48ea23fb') in 0.047131 seconds
+  Import took 0.050834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.247353 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Blue.prefab
+  artifactKey: Guid(9d71ac273b96d3a4dad4d3d045e12374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Blue.prefab using Guid(9d71ac273b96d3a4dad4d3d045e12374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a71b9a2476509a9342696ea28e64be3b') in 0.015436 seconds
+  Import took 0.021760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012200 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Blue.prefab
+  artifactKey: Guid(9d71ac273b96d3a4dad4d3d045e12374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs/RTI/RTI_Blue.prefab using Guid(9d71ac273b96d3a4dad4d3d045e12374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a71b9a2476509a9342696ea28e64be3b') in 0.009453 seconds
+  Import took 0.013347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.294431 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI
+  artifactKey: Guid(cab26ee991706f243a585c4e87c900e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI using Guid(cab26ee991706f243a585c4e87c900e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7243ae4f7f5456db9c0a95f0cc16214') in 0.002566 seconds
+  Import took 0.006467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081912 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Blue.prefab
+  artifactKey: Guid(7a42f04f0e6ded14595c6561c9ab7b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Blue.prefab using Guid(7a42f04f0e6ded14595c6561c9ab7b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528b4bad80a7749308406b4dcccad2de') in 0.016025 seconds
+  Import took 0.020960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Yellow.prefab
+  artifactKey: Guid(600b8da8d44237a41becf68bd8d5f1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Yellow.prefab using Guid(600b8da8d44237a41becf68bd8d5f1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572d41bfc04da92b9f9cbd993da3e49d') in 0.011677 seconds
+  Import took 0.015206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Orange.prefab
+  artifactKey: Guid(d01ef4bf82568c24283be04fd39b8d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Orange.prefab using Guid(d01ef4bf82568c24283be04fd39b8d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e5ff30647305e94ab8829c49813a78') in 0.012423 seconds
+  Import took 0.017341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Red.prefab
+  artifactKey: Guid(2c4ee3411ce870140b341033dc45f124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Red.prefab using Guid(2c4ee3411ce870140b341033dc45f124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e2d3382df2513c60cd80ce36b3044b') in 0.012804 seconds
+  Import took 0.016326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Midnight.prefab
+  artifactKey: Guid(afa91be8fdec119408c72da86109e6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Midnight.prefab using Guid(afa91be8fdec119408c72da86109e6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c454dc7ef2f689e846b01103271002f') in 0.012316 seconds
+  Import took 0.015915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Gray.prefab
+  artifactKey: Guid(d5147b9cadc415f41a117cb24eada08a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Prefabs (Colliders)/RTI/RTI_Gray.prefab using Guid(d5147b9cadc415f41a117cb24eada08a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf252cd7c7ae255c36689a5e5b708ac') in 0.032156 seconds
+  Import took 0.035760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.109914 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Other/Plane.mat
+  artifactKey: Guid(c6e08c415e470bc428a4be02a1f28667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Other/Plane.mat using Guid(c6e08c415e470bc428a4be02a1f28667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba06e953e7fa0f45a995c4f47c421963') in 0.011692 seconds
+  Import took 0.015496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.869279 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/Cars_Material.mat
+  artifactKey: Guid(b8ff3dbf2d1811b488591cfb25be7ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/Cars_Material.mat using Guid(b8ff3dbf2d1811b488591cfb25be7ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198ca8e475738623bf9d02ef30f594d6') in 0.012967 seconds
+  Import took 0.016798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/rojo.mat
+  artifactKey: Guid(b336840f8729c8848a080e371ff01a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/rojo.mat using Guid(b336840f8729c8848a080e371ff01a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '913aaf341f995f6e946466ffaed3b5f8') in 0.012498 seconds
+  Import took 0.016006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/Front_Lights_Material.mat
+  artifactKey: Guid(8db262d26fcf2a94e88c9c276f6de722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/Front_Lights_Material.mat using Guid(8db262d26fcf2a94e88c9c276f6de722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd27f6f9b7b985510fc0a59fd322924d') in 0.017645 seconds
+  Import took 0.021518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/Rear_Lights_Material.mat
+  artifactKey: Guid(4a98cfae850de544680dc222604c30a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/Rear_Lights_Material.mat using Guid(4a98cfae850de544680dc222604c30a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6662f945903fbd9ee00e8971645f27') in 0.009722 seconds
+  Import took 0.013244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.696228 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/Cars_Material.mat
+  artifactKey: Guid(b8ff3dbf2d1811b488591cfb25be7ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/Cars_Material.mat using Guid(b8ff3dbf2d1811b488591cfb25be7ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd68a82aba2964ed50a02f188a5681ca2') in 0.012409 seconds
+  Import took 0.016451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/rojo.mat
+  artifactKey: Guid(b336840f8729c8848a080e371ff01a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/rojo.mat using Guid(b336840f8729c8848a080e371ff01a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278878fbbfe77361c68bdc47304f472b') in 0.010602 seconds
+  Import took 0.013995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/Front_Lights_Material.mat
+  artifactKey: Guid(8db262d26fcf2a94e88c9c276f6de722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/Front_Lights_Material.mat using Guid(8db262d26fcf2a94e88c9c276f6de722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c1588e82569c732703122228b373470') in 0.013812 seconds
+  Import took 0.017290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/New Material.mat
+  artifactKey: Guid(c42a7e87420c01048895715a0b0b3cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/New Material.mat using Guid(c42a7e87420c01048895715a0b0b3cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b0e452a4cb1dd753a356dae606c827') in 0.011320 seconds
+  Import took 0.015008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/STYLIZED - FREE Drift Car/Materials/Rear_Lights_Material.mat
+  artifactKey: Guid(4a98cfae850de544680dc222604c30a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/STYLIZED - FREE Drift Car/Materials/Rear_Lights_Material.mat using Guid(4a98cfae850de544680dc222604c30a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39205693f70b89a8280255789d8da16b') in 0.013837 seconds
+  Import took 0.017378 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
