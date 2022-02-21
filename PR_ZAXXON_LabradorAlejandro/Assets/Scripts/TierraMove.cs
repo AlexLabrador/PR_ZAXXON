@@ -8,7 +8,7 @@ public class TierraMove : MonoBehaviour
     InitGameScript InitGameScript;
     [SerializeField] float speed;
     [SerializeField] GameObject terrenoPrefab;
-    Vector3 intpos = new Vector3(0, 0, 100);
+    Vector3 intpos = new Vector3(0, 0, 150);
     // Start is called before the first frame update
     void Start()
     {
@@ -21,7 +21,7 @@ public class TierraMove : MonoBehaviour
         speed = InitGameScript.spaceship;
         transform.Translate(Vector3.back * Time.deltaTime * speed);
 
-        if (transform.position.z <= -50)
+       if (transform.position.z <= -50)
         {
             // print("Hola");    
 
