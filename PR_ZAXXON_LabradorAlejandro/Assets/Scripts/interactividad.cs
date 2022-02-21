@@ -11,6 +11,7 @@ public class interactividad : MonoBehaviour
     private float rotateY;
     [SerializeField] float fuerza;
     [SerializeField] GameObject nave;
+    [SerializeField] ParticleSystem explosion;
 
 
     //variables
@@ -119,9 +120,11 @@ public class interactividad : MonoBehaviour
 
         if (other.gameObject.tag == "Enemy")
         {
-            //print(other.gameObject.tag);
+             explosion.Play();
             Destroy(nave);
-            SceneManager.LoadScene("Game over");
+           
+
+           // SceneManager.LoadScene("Game over");
         }
     }
 
