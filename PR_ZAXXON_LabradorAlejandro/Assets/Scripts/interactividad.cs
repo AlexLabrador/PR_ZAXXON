@@ -25,7 +25,7 @@ public class interactividad : MonoBehaviour
     //limites
     float limitR = 9f;
     float limitL = -9f;
-    float limitUp = 30f;
+    float limitUp = 15f;
     float limitDown = 0.5f;
 
     //variable bool limite
@@ -55,8 +55,8 @@ public class interactividad : MonoBehaviour
     }
     void rotation()
     {
-        
 
+        
         float rot = Input.GetAxis("rotacion") * 2f;
 
         transform.Rotate(Vector3.back * Time.deltaTime * rot * speed);
@@ -135,7 +135,7 @@ public class interactividad : MonoBehaviour
 
         }
 
-        Invoke("LoadSceneGO",2);
+        Invoke("LoadSceneGO",0.5f);
 
     }
 

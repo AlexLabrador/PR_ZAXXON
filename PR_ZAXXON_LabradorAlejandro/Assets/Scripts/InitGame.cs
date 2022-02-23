@@ -25,4 +25,16 @@ public class InitGame : MonoBehaviour
         }
         
     }
+    public void JugarSinEdificios()
+    {
+        SceneManager.LoadScene("Sin_Edificios");
+    }
+    public void Volver()
+    {
+        SceneManager.LoadScene("Inicio");
+    }
+    public void Settings()
+    {
+        SceneManager.LoadScene("Settings");
+    }
 }
