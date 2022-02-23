@@ -32,4 +32,8 @@ public class Pausa : MonoBehaviour
         Time.timeScale = 1f;
         SceneManager.LoadScene("Inicio");
     }
+    public void TextoInicio()
+    {
+
+    }
 }
