@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Audio;
 
 public class interactividad : MonoBehaviour
 {
@@ -11,12 +12,13 @@ public class interactividad : MonoBehaviour
     private float rotateY;
     [SerializeField] float fuerza;
     [SerializeField] GameObject nave;
-    [SerializeField] ParticleSystem explosion;
+    //[SerializeField] ParticleSystem explosion;
+    [SerializeField] GameObject explosion;
 
 
     //variables
     //movimienti
-
+    [SerializeField] AudioClip explosionAudio;
 
 
 
@@ -35,7 +37,8 @@ public class interactividad : MonoBehaviour
     void Start()
     {
         transform.position = PlayerPosition;
-       
+        
+
     }
     private void FixedUpdate()
     {
@@ -120,24 +123,24 @@ public class interactividad : MonoBehaviour
 
         if (other.gameObject.tag == "Enemy")
         {
-            
+            Instantiate(explosion, transform.position, transform.rotation);
+
+            //explosion.Play();
             Destroy(nave);
-            Instantiate(explosion,transform.position, explosion.transform.rotation);
+            
 
 
-            SceneManager.LoadScene("Game over");
+            
         }
+
+        Invoke("LoadSceneGO", explosionAudio.length + 1);
         
     }
 
-
-
-
-
-
-
-
-
+    void LoadSceneGO()
+    {
+        SceneManager.LoadScene("Game over");
+    }
 
 
 
