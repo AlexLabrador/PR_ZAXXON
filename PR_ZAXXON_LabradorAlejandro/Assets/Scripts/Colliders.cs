@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class Colliders : MonoBehaviour
 {
     [SerializeField] GameObject columnaObs;
+    [SerializeField] ParticleSystem explsion;
     
     // Start is called before the first frame update
     void Start()
@@ -46,5 +47,12 @@ public class Colliders : MonoBehaviour
         }
 
 
+    }
+    private void OnCollisionEnter(Collision other)
+    {
+        if(other.gameObject.tag == "Nave")
+        {
+            Instantiate(explsion, transform.position, explsion.transform.rotation);
+        }
     }
 }

@@ -120,12 +120,14 @@ public class interactividad : MonoBehaviour
 
         if (other.gameObject.tag == "Enemy")
         {
-             explosion.Play();
+            
             Destroy(nave);
-           
+            Instantiate(explosion,transform.position, explosion.transform.rotation);
 
-           // SceneManager.LoadScene("Game over");
+
+            SceneManager.LoadScene("Game over");
         }
+        
     }
 
 
