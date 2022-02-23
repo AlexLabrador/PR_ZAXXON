@@ -7,6 +7,9 @@ TagManager:
   - Nave
   - Enemy
   - pared
+  - Boost
+  - InitGame
+  - Canvas
   layers:
   - Default
   - TransparentFX

@@ -11,6 +11,7 @@ public class InitGameScript : MonoBehaviour
     public float aparicionObs;
     private float gameSec;
     [SerializeField] Text velocidadEnPantalla;
+    Pausa pausa;
     
 
 
@@ -19,6 +20,7 @@ public class InitGameScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        pausa = GameObject.FindGameObjectWithTag("Canvas").GetComponent<Pausa>();
         //StartCoroutine("velocidad");
        
     }
@@ -41,7 +43,11 @@ public class InitGameScript : MonoBehaviour
         VelocidadEnPantalla();
         Acelerar();
 
+        if (Input.GetButtonDown("Jump"))
+        {
 
+            pausa.Pausar();
+        }
     }
 
     void reaparicionAumenta()
