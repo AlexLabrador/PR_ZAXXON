@@ -25,13 +25,14 @@ GameObject:
   m_Component:
   - component: {fileID: 415249534593335895}
   - component: {fileID: 6216589894708188576}
+  - component: {fileID: 6750504494349199277}
   m_Layer: 0
   m_Name: AirMag
   m_TagString: Boost
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &415249534593335895
 Transform:
   m_ObjectHideFlags: 0
@@ -60,6 +61,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0
+  initObject: {fileID: 6219696352586399407}
+--- !u!114 &6750504494349199277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6219696352586399407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f678996ba62f85b4280fd6c5518ccc9b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
   initObject: {fileID: 6219696352586399407}
 --- !u!1001 &4799621620484001863
 PrefabInstance:

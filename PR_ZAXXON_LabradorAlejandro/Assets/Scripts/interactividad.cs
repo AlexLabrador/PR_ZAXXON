@@ -14,11 +14,11 @@ public class interactividad : MonoBehaviour
     [SerializeField] GameObject nave;
     //[SerializeField] ParticleSystem explosion;
     [SerializeField] GameObject explosion;
+    [SerializeField] GameObject navePrefab;
 
 
-    //variables
-    //movimienti
-    [SerializeField] AudioClip explosionAudio;
+
+
 
 
 
@@ -37,7 +37,7 @@ public class interactividad : MonoBehaviour
     void Start()
     {
         transform.position = PlayerPosition;
-        
+
 
     }
     private void FixedUpdate()
@@ -120,21 +120,23 @@ public class interactividad : MonoBehaviour
     }
     void OnTriggerEnter(Collider other)
     {
+       
 
         if (other.gameObject.tag == "Enemy")
         {
             Instantiate(explosion, transform.position, transform.rotation);
-
+            navePrefab.SetActive(false);
+           
             //explosion.Play();
-            Destroy(nave);
-            
+           // Destroy(nave);
 
 
-            
+           
+
         }
 
-        Invoke("LoadSceneGO", explosionAudio.length + 1);
-        
+        Invoke("LoadSceneGO",2);
+
     }
 
     void LoadSceneGO()
