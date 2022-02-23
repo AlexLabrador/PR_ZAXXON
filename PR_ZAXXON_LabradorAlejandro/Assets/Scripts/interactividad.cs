@@ -126,16 +126,16 @@ public class interactividad : MonoBehaviour
         {
             Instantiate(explosion, transform.position, transform.rotation);
             navePrefab.SetActive(false);
-           
+
             //explosion.Play();
-           // Destroy(nave);
+            // Destroy(nave);
 
 
-           
+            Invoke("LoadSceneGO", 0.5f);
 
         }
 
-        Invoke("LoadSceneGO",0.5f);
+        
 
     }
 
